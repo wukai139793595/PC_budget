@@ -1,0 +1,4042 @@
+{
+    "code": 0,
+    "message": "成功",
+    "content": {
+        "code": 0,
+        "message": "成功",
+        "content": {
+            "areaNames": [
+                "市本级",
+                "上城",
+                "下城",
+                "西湖",
+                "滨江",
+                "下沙",
+                "拱墅",
+                "江干",
+                "富阳",
+                "萧山",
+                "桐庐",
+                "淳安",
+                "建德",
+                "临安",
+                "余杭",
+                "市政企",
+                "省政企",
+                "全市"
+            ],
+            "areaIds": [
+                "132686",
+                "111",
+                "434",
+                "112",
+                "447",
+                "448",
+                "449",
+                "450",
+                "60",
+                "613",
+                "639",
+                "640",
+                "647",
+                "761",
+                "13",
+                "133049",
+                "152476",
+                "0"
+            ],
+            "data": [
+                {
+                    "parentName": "分套餐用户指标",
+                    "dataList": [
+                        {
+                            "productName": "套餐用户（万户）",
+                            "class1Name": "融合套餐净增",
+                            "class2Name": "融合套餐净增",
+                            "dataList": [
+                                {
+                                    "areaId": "111",
+                                    "indexValue": "8.60741251700508"
+                                },
+                                {
+                                    "areaId": "434",
+                                    "indexValue": "7.88733836927807"
+                                },
+                                {
+                                    "areaId": "112",
+                                    "indexValue": "5.78362870038417"
+                                },
+                                {
+                                    "areaId": "447",
+                                    "indexValue": "3.27483212321755"
+                                },
+                                {
+                                    "areaId": "448",
+                                    "indexValue": "2.6"
+                                },
+                                {
+                                    "areaId": "449",
+                                    "indexValue": "3.1"
+                                },
+                                {
+                                    "areaId": "450",
+                                    "indexValue": "4.37791054263784"
+                                },
+                                {
+                                    "areaId": "60",
+                                    "indexValue": "1.5"
+                                },
+                                {
+                                    "areaId": "613",
+                                    "indexValue": "1.1"
+                                },
+                                {
+                                    "areaId": "639",
+                                    "indexValue": "3.10678062739407"
+                                },
+                                {
+                                    "areaId": "640",
+                                    "indexValue": "0.867477207894306"
+                                },
+                                {
+                                    "areaId": "647",
+                                    "indexValue": "42.2053800878111"
+                                },
+                                {
+                                    "areaId": "761",
+                                    "indexValue": "-0.180122573001152"
+                                },
+                                {
+                                    "areaId": "13",
+                                    "indexValue": "-0.849618457710604"
+                                },
+                                {
+                                    "areaId": "133049",
+                                    "indexValue": "-1.51911434242005"
+                                },
+                                {
+                                    "areaId": "152476",
+                                    "indexValue": "-2.18861022712951"
+                                },
+                                {
+                                    "areaId": "0",
+                                    "indexValue": "-2.85810611183896"
+                                }
+                            ]
+                        },
+                        {
+                            "productName": "套餐用户（万户）",
+                            "class1Name": "单C净增",
+                            "class2Name": "单C净增",
+                            "dataList": [
+                                {
+                                    "areaId": "111",
+                                    "indexValue": "5.3655688165439"
+                                },
+                                {
+                                    "areaId": "434",
+                                    "indexValue": "5.02558953536475"
+                                },
+                                {
+                                    "areaId": "112",
+                                    "indexValue": "3.91782024052461"
+                                },
+                                {
+                                    "areaId": "447",
+                                    "indexValue": "2.37199809468155"
+                                },
+                                {
+                                    "areaId": "448",
+                                    "indexValue": "1.62931881227942"
+                                },
+                                {
+                                    "areaId": "449",
+                                    "indexValue": "2.5"
+                                },
+                                {
+                                    "areaId": "450",
+                                    "indexValue": "3.15226109705205"
+                                },
+                                {
+                                    "areaId": "60",
+                                    "indexValue": "0.773156872982843"
+                                },
+                                {
+                                    "areaId": "613",
+                                    "indexValue": "0.6"
+                                },
+                                {
+                                    "areaId": "639",
+                                    "indexValue": "2.34247537775665"
+                                },
+                                {
+                                    "areaId": "640",
+                                    "indexValue": "0.415640803643406"
+                                },
+                                {
+                                    "areaId": "647",
+                                    "indexValue": "28.0938296508292"
+                                },
+                                {
+                                    "areaId": "761",
+                                    "indexValue": "-0.015668081295539"
+                                },
+                                {
+                                    "areaId": "13",
+                                    "indexValue": "-0.443943513796752"
+                                },
+                                {
+                                    "areaId": "133049",
+                                    "indexValue": "-0.872218946297965"
+                                },
+                                {
+                                    "areaId": "152476",
+                                    "indexValue": "-1.30049437879918"
+                                },
+                                {
+                                    "areaId": "0",
+                                    "indexValue": "-1.72876981130039"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parentName": "分产品发展指标",
+                    "dataList": [
+                        {
+                            "productName": "移动",
+                            "class1Name": "净增（万户）",
+                            "class2Name": "确保",
+                            "dataList": [
+                                {
+                                    "areaId": "111",
+                                    "indexValue": "27"
+                                },
+                                {
+                                    "areaId": "434",
+                                    "indexValue": "17.3"
+                                },
+                                {
+                                    "areaId": "112",
+                                    "indexValue": "16"
+                                },
+                                {
+                                    "areaId": "447",
+                                    "indexValue": "8.2"
+                                },
+                                {
+                                    "areaId": "448",
+                                    "indexValue": "4.8"
+                                },
+                                {
+                                    "areaId": "449",
+                                    "indexValue": "8.8"
+                                },
+                                {
+                                    "areaId": "450",
+                                    "indexValue": "10.7"
+                                },
+                                {
+                                    "areaId": "60",
+                                    "indexValue": "3.2"
+                                },
+                                {
+                                    "areaId": "613",
+                                    "indexValue": "2.8"
+                                },
+                                {
+                                    "areaId": "639",
+                                    "indexValue": "9"
+                                },
+                                {
+                                    "areaId": "640",
+                                    "indexValue": "2.2"
+                                },
+                                {
+                                    "areaId": "647",
+                                    "indexValue": "110"
+                                },
+                                {
+                                    "areaId": "761",
+                                    "indexValue": "4.8"
+                                },
+                                {
+                                    "areaId": "13",
+                                    "indexValue": "8.8"
+                                },
+                                {
+                                    "areaId": "133049",
+                                    "indexValue": "10.7"
+                                },
+                                {
+                                    "areaId": "152476",
+                                    "indexValue": "3.2"
+                                },
+                                {
+                                    "areaId": "0",
+                                    "indexValue": "2.8"
+                                }
+                            ]
+                        },
+                        {
+                            "productName": "移动",
+                            "class1Name": "净增（万户）",
+                            "class2Name": "奋斗",
+                            "dataList": [
+                                {
+                                    "areaId": "111",
+                                    "indexValue": "35"
+                                },
+                                {
+                                    "areaId": "434",
+                                    "indexValue": "22.3"
+                                },
+                                {
+                                    "areaId": "112",
+                                    "indexValue": "20.5"
+                                },
+                                {
+                                    "areaId": "447",
+                                    "indexValue": "10.6"
+                                },
+                                {
+                                    "areaId": "448",
+                                    "indexValue": "6.2"
+                                },
+                                {
+                                    "areaId": "449",
+                                    "indexValue": "11.4"
+                                },
+                                {
+                                    "areaId": "450",
+                                    "indexValue": "13.8"
+                                },
+                                {
+                                    "areaId": "60",
+                                    "indexValue": "4.1"
+                                },
+                                {
+                                    "areaId": "613",
+                                    "indexValue": "3.6"
+                                },
+                                {
+                                    "areaId": "639",
+                                    "indexValue": "11.6"
+                                },
+                                {
+                                    "areaId": "640",
+                                    "indexValue": "2.8"
+                                },
+                                {
+                                    "areaId": "647",
+                                    "indexValue": "141.9"
+                                },
+                                {
+                                    "areaId": "761",
+                                    "indexValue": "6.2"
+                                },
+                                {
+                                    "areaId": "13",
+                                    "indexValue": "11.4"
+                                },
+                                {
+                                    "areaId": "133049",
+                                    "indexValue": "13.8"
+                                },
+                                {
+                                    "areaId": "152476",
+                                    "indexValue": "4.1"
+                                },
+                                {
+                                    "areaId": "0",
+                                    "indexValue": "3.6"
+                                }
+                            ]
+                        },
+                        {
+                            "productName": "移动",
+                            "class1Name": "新增（万户）",
+                            "class2Name": "确保",
+                            "dataList": [
+                                {
+                                    "areaId": "111",
+                                    "indexValue": "155"
+                                },
+                                {
+                                    "areaId": "434",
+                                    "indexValue": "99"
+                                },
+                                {
+                                    "areaId": "112",
+                                    "indexValue": "92"
+                                },
+                                {
+                                    "areaId": "447",
+                                    "indexValue": "47"
+                                },
+                                {
+                                    "areaId": "448",
+                                    "indexValue": "28"
+                                },
+                                {
+                                    "areaId": "449",
+                                    "indexValue": "50"
+                                },
+                                {
+                                    "areaId": "450",
+                                    "indexValue": "61"
+                                },
+                                {
+                                    "areaId": "60",
+                                    "indexValue": "18"
+                                },
+                                {
+                                    "areaId": "613",
+                                    "indexValue": "16"
+                                },
+                                {
+                                    "areaId": "639",
+                                    "indexValue": "52"
+                                },
+                                {
+                                    "areaId": "640",
+                                    "indexValue": "13"
+                                },
+                                {
+                                    "areaId": "647",
+                                    "indexValue": "631"
+                                },
+                                {
+                                    "areaId": "761",
+                                    "indexValue": "28"
+                                },
+                                {
+                                    "areaId": "13",
+                                    "indexValue": "50"
+                                },
+                                {
+                                    "areaId": "133049",
+                                    "indexValue": "61"
+                                },
+                                {
+                                    "areaId": "152476",
+                                    "indexValue": "18"
+                                },
+                                {
+                                    "areaId": "0",
+                                    "indexValue": "16"
+                                }
+                            ]
+                        },
+                        {
+                            "productName": "移动",
+                            "class1Name": "新增（万户）",
+                            "class2Name": "奋斗",
+                            "dataList": [
+                                {
+                                    "areaId": "111",
+                                    "indexValue": "212"
+                                },
+                                {
+                                    "areaId": "434",
+                                    "indexValue": "135"
+                                },
+                                {
+                                    "areaId": "112",
+                                    "indexValue": "126"
+                                },
+                                {
+                                    "areaId": "447",
+                                    "indexValue": "64"
+                                },
+                                {
+                                    "areaId": "448",
+                                    "indexValue": "38"
+                                },
+                                {
+                                    "areaId": "449",
+                                    "indexValue": "68"
+                                },
+                                {
+                                    "areaId": "450",
+                                    "indexValue": "83"
+                                },
+                                {
+                                    "areaId": "60",
+                                    "indexValue": "25"
+                                },
+                                {
+                                    "areaId": "613",
+                                    "indexValue": "22"
+                                },
+                                {
+                                    "areaId": "639",
+                                    "indexValue": "71"
+                                },
+                                {
+                                    "areaId": "640",
+                                    "indexValue": "18"
+                                },
+                                {
+                                    "areaId": "647",
+                                    "indexValue": "862"
+                                },
+                                {
+                                    "areaId": "761",
+                                    "indexValue": "38"
+                                },
+                                {
+                                    "areaId": "13",
+                                    "indexValue": "68"
+                                },
+                                {
+                                    "areaId": "133049",
+                                    "indexValue": "83"
+                                },
+                                {
+                                    "areaId": "152476",
+                                    "indexValue": "25"
+                                },
+                                {
+                                    "areaId": "0",
+                                    "indexValue": "22"
+                                }
+                            ]
+                        },
+                        {
+                            "productName": "5G用户",
+                            "class1Name": "净增（万户）",
+                            "class2Name": "确保",
+                            "dataList": [
+                                {
+                                    "areaId": "111",
+                                    "indexValue": "67"
+                                },
+                                {
+                                    "areaId": "434",
+                                    "indexValue": "47"
+                                },
+                                {
+                                    "areaId": "112",
+                                    "indexValue": "44"
+                                },
+                                {
+                                    "areaId": "447",
+                                    "indexValue": "21"
+                                },
+                                {
+                                    "areaId": "448",
+                                    "indexValue": "15"
+                                },
+                                {
+                                    "areaId": "449",
+                                    "indexValue": "22"
+                                },
+                                {
+                                    "areaId": "450",
+                                    "indexValue": "29"
+                                },
+                                {
+                                    "areaId": "60",
+                                    "indexValue": "9"
+                                },
+                                {
+                                    "areaId": "613",
+                                    "indexValue": "8.7"
+                                },
+                                {
+                                    "areaId": "639",
+                                    "indexValue": "25"
+                                },
+                                {
+                                    "areaId": "640",
+                                    "indexValue": "6.3"
+                                },
+                                {
+                                    "areaId": "647",
+                                    "indexValue": "294"
+                                },
+                                {
+                                    "areaId": "761",
+                                    "indexValue": "15"
+                                },
+                                {
+                                    "areaId": "13",
+                                    "indexValue": "22"
+                                },
+                                {
+                                    "areaId": "133049",
+                                    "indexValue": "29"
+                                },
+                                {
+                                    "areaId": "152476",
+                                    "indexValue": "9"
+                                },
+                                {
+                                    "areaId": "0",
+                                    "indexValue": "8.7"
+                                }
+                            ]
+                        },
+                        {
+                            "productName": "5G用户",
+                            "class1Name": "净增（万户）",
+                            "class2Name": "奋斗",
+                            "dataList": [
+                                {
+                                    "areaId": "111",
+                                    "indexValue": "80"
+                                },
+                                {
+                                    "areaId": "434",
+                                    "indexValue": "56"
+                                },
+                                {
+                                    "areaId": "112",
+                                    "indexValue": "53"
+                                },
+                                {
+                                    "areaId": "447",
+                                    "indexValue": "25"
+                                },
+                                {
+                                    "areaId": "448",
+                                    "indexValue": "18"
+                                },
+                                {
+                                    "areaId": "449",
+                                    "indexValue": "26"
+                                },
+                                {
+                                    "areaId": "450",
+                                    "indexValue": "35"
+                                },
+                                {
+                                    "areaId": "60",
+                                    "indexValue": "11"
+                                },
+                                {
+                                    "areaId": "613",
+                                    "indexValue": "10.5"
+                                },
+                                {
+                                    "areaId": "639",
+                                    "indexValue": "30"
+                                },
+                                {
+                                    "areaId": "640",
+                                    "indexValue": "7.5"
+                                },
+                                {
+                                    "areaId": "647",
+                                    "indexValue": "352"
+                                },
+                                {
+                                    "areaId": "761",
+                                    "indexValue": "18"
+                                },
+                                {
+                                    "areaId": "13",
+                                    "indexValue": "26"
+                                },
+                                {
+                                    "areaId": "133049",
+                                    "indexValue": "35"
+                                },
+                                {
+                                    "areaId": "152476",
+                                    "indexValue": "11"
+                                },
+                                {
+                                    "areaId": "0",
+                                    "indexValue": "10.5"
+                                }
+                            ]
+                        },
+                        {
+                            "productName": "宽带",
+                            "class1Name": "净增（万户）",
+                            "class2Name": "确保",
+                            "dataList": [
+                                {
+                                    "areaId": "111",
+                                    "indexValue": "9.4"
+                                },
+                                {
+                                    "areaId": "434",
+                                    "indexValue": "5.5"
+                                },
+                                {
+                                    "areaId": "112",
+                                    "indexValue": "5.4"
+                                },
+                                {
+                                    "areaId": "447",
+                                    "indexValue": "2.7"
+                                },
+                                {
+                                    "areaId": "448",
+                                    "indexValue": "1.6"
+                                },
+                                {
+                                    "areaId": "449",
+                                    "indexValue": "2.4"
+                                },
+                                {
+                                    "areaId": "450",
+                                    "indexValue": "3.6"
+                                },
+                                {
+                                    "areaId": "60",
+                                    "indexValue": "1"
+                                },
+                                {
+                                    "areaId": "613",
+                                    "indexValue": "0.9"
+                                },
+                                {
+                                    "areaId": "639",
+                                    "indexValue": "2.8"
+                                },
+                                {
+                                    "areaId": "640",
+                                    "indexValue": "0.7"
+                                },
+                                {
+                                    "areaId": "647",
+                                    "indexValue": "36"
+                                },
+                                {
+                                    "areaId": "761",
+                                    "indexValue": "0.9"
+                                },
+                                {
+                                    "areaId": "13",
+                                    "indexValue": "2.8"
+                                },
+                                {
+                                    "areaId": "133049",
+                                    "indexValue": "0.7"
+                                },
+                                {
+                                    "areaId": "152476",
+                                    "indexValue": "2.8"
+                                },
+                                {
+                                    "areaId": "0",
+                                    "indexValue": "0.7"
+                                }
+                            ]
+                        },
+                        {
+                            "productName": "宽带",
+                            "class1Name": "净增（万户）",
+                            "class2Name": "奋斗",
+                            "dataList": [
+                                {
+                                    "areaId": "111",
+                                    "indexValue": "11.5"
+                                },
+                                {
+                                    "areaId": "434",
+                                    "indexValue": "6.7"
+                                },
+                                {
+                                    "areaId": "112",
+                                    "indexValue": "6.6"
+                                },
+                                {
+                                    "areaId": "447",
+                                    "indexValue": "3.3"
+                                },
+                                {
+                                    "areaId": "448",
+                                    "indexValue": "2"
+                                },
+                                {
+                                    "areaId": "449",
+                                    "indexValue": "2.9"
+                                },
+                                {
+                                    "areaId": "450",
+                                    "indexValue": "4.4"
+                                },
+                                {
+                                    "areaId": "60",
+                                    "indexValue": "1.2"
+                                },
+                                {
+                                    "areaId": "613",
+                                    "indexValue": "1.1"
+                                },
+                                {
+                                    "areaId": "639",
+                                    "indexValue": "3.4"
+                                },
+                                {
+                                    "areaId": "640",
+                                    "indexValue": "0.9"
+                                },
+                                {
+                                    "areaId": "647",
+                                    "indexValue": "44"
+                                },
+                                {
+                                    "areaId": "761",
+                                    "indexValue": "1.1"
+                                },
+                                {
+                                    "areaId": "13",
+                                    "indexValue": "3.4"
+                                },
+                                {
+                                    "areaId": "133049",
+                                    "indexValue": "0.9"
+                                },
+                                {
+                                    "areaId": "152476",
+                                    "indexValue": "3.4"
+                                },
+                                {
+                                    "areaId": "0",
+                                    "indexValue": "0.9"
+                                }
+                            ]
+                        },
+                        {
+                            "productName": "宽带",
+                            "class1Name": "新增（万户）",
+                            "class2Name": "确保",
+                            "dataList": [
+                                {
+                                    "areaId": "111",
+                                    "indexValue": "57.4"
+                                },
+                                {
+                                    "areaId": "434",
+                                    "indexValue": "33.6"
+                                },
+                                {
+                                    "areaId": "112",
+                                    "indexValue": "33"
+                                },
+                                {
+                                    "areaId": "447",
+                                    "indexValue": "16.5"
+                                },
+                                {
+                                    "areaId": "448",
+                                    "indexValue": "9.8"
+                                },
+                                {
+                                    "areaId": "449",
+                                    "indexValue": "14.7"
+                                },
+                                {
+                                    "areaId": "450",
+                                    "indexValue": "22"
+                                },
+                                {
+                                    "areaId": "60",
+                                    "indexValue": "6.1"
+                                },
+                                {
+                                    "areaId": "613",
+                                    "indexValue": "5.5"
+                                },
+                                {
+                                    "areaId": "639",
+                                    "indexValue": "17.1"
+                                },
+                                {
+                                    "areaId": "640",
+                                    "indexValue": "4.3"
+                                },
+                                {
+                                    "areaId": "647",
+                                    "indexValue": "220"
+                                },
+                                {
+                                    "areaId": "761",
+                                    "indexValue": "5.5"
+                                },
+                                {
+                                    "areaId": "13",
+                                    "indexValue": "17.1"
+                                },
+                                {
+                                    "areaId": "133049",
+                                    "indexValue": "4.3"
+                                },
+                                {
+                                    "areaId": "152476",
+                                    "indexValue": "17.1"
+                                },
+                                {
+                                    "areaId": "0",
+                                    "indexValue": "4.3"
+                                }
+                            ]
+                        },
+                        {
+                            "productName": "宽带",
+                            "class1Name": "新增（万户）",
+                            "class2Name": "奋斗",
+                            "dataList": [
+                                {
+                                    "areaId": "111",
+                                    "indexValue": "64.4"
+                                },
+                                {
+                                    "areaId": "434",
+                                    "indexValue": "37.7"
+                                },
+                                {
+                                    "areaId": "112",
+                                    "indexValue": "37.1"
+                                },
+                                {
+                                    "areaId": "447",
+                                    "indexValue": "18.5"
+                                },
+                                {
+                                    "areaId": "448",
+                                    "indexValue": "11"
+                                },
+                                {
+                                    "areaId": "449",
+                                    "indexValue": "16.5"
+                                },
+                                {
+                                    "areaId": "450",
+                                    "indexValue": "24.7"
+                                },
+                                {
+                                    "areaId": "60",
+                                    "indexValue": "6.8"
+                                },
+                                {
+                                    "areaId": "613",
+                                    "indexValue": "6.3"
+                                },
+                                {
+                                    "areaId": "639",
+                                    "indexValue": "19.2"
+                                },
+                                {
+                                    "areaId": "640",
+                                    "indexValue": "4.8"
+                                },
+                                {
+                                    "areaId": "647",
+                                    "indexValue": "247"
+                                },
+                                {
+                                    "areaId": "761",
+                                    "indexValue": "6.3"
+                                },
+                                {
+                                    "areaId": "13",
+                                    "indexValue": "19.2"
+                                },
+                                {
+                                    "areaId": "133049",
+                                    "indexValue": "4.8"
+                                },
+                                {
+                                    "areaId": "152476",
+                                    "indexValue": "19.2"
+                                },
+                                {
+                                    "areaId": "0",
+                                    "indexValue": "4.8"
+                                }
+                            ]
+                        },
+                        {
+                            "productName": "ITV",
+                            "class1Name": "净增（万户）",
+                            "class2Name": "确保",
+                            "dataList": [
+                                {
+                                    "areaId": "111",
+                                    "indexValue": "15.3"
+                                },
+                                {
+                                    "areaId": "434",
+                                    "indexValue": "9.5"
+                                },
+                                {
+                                    "areaId": "112",
+                                    "indexValue": "6.8"
+                                },
+                                {
+                                    "areaId": "447",
+                                    "indexValue": "4.7"
+                                },
+                                {
+                                    "areaId": "448",
+                                    "indexValue": "3.1"
+                                },
+                                {
+                                    "areaId": "449",
+                                    "indexValue": "5.2"
+                                },
+                                {
+                                    "areaId": "450",
+                                    "indexValue": "5.8"
+                                },
+                                {
+                                    "areaId": "60",
+                                    "indexValue": "2"
+                                },
+                                {
+                                    "areaId": "613",
+                                    "indexValue": "2.3"
+                                },
+                                {
+                                    "areaId": "639",
+                                    "indexValue": "4.8"
+                                },
+                                {
+                                    "areaId": "640",
+                                    "indexValue": "1.5"
+                                },
+                                {
+                                    "areaId": "647",
+                                    "indexValue": "61"
+                                },
+                                {
+                                    "areaId": "761",
+                                    "indexValue": "2.3"
+                                },
+                                {
+                                    "areaId": "13",
+                                    "indexValue": "4.8"
+                                },
+                                {
+                                    "areaId": "133049",
+                                    "indexValue": "1.5"
+                                },
+                                {
+                                    "areaId": "152476",
+                                    "indexValue": "4.8"
+                                },
+                                {
+                                    "areaId": "0",
+                                    "indexValue": "1.5"
+                                }
+                            ]
+                        },
+                        {
+                            "productName": "ITV",
+                            "class1Name": "净增（万户）",
+                            "class2Name": "奋斗",
+                            "dataList": [
+                                {
+                                    "areaId": "111",
+                                    "indexValue": "17"
+                                },
+                                {
+                                    "areaId": "434",
+                                    "indexValue": "10.5"
+                                },
+                                {
+                                    "areaId": "112",
+                                    "indexValue": "7.6"
+                                },
+                                {
+                                    "areaId": "447",
+                                    "indexValue": "5.3"
+                                },
+                                {
+                                    "areaId": "448",
+                                    "indexValue": "3.5"
+                                },
+                                {
+                                    "areaId": "449",
+                                    "indexValue": "5.8"
+                                },
+                                {
+                                    "areaId": "450",
+                                    "indexValue": "6.5"
+                                },
+                                {
+                                    "areaId": "60",
+                                    "indexValue": "2.2"
+                                },
+                                {
+                                    "areaId": "613",
+                                    "indexValue": "2.5"
+                                },
+                                {
+                                    "areaId": "639",
+                                    "indexValue": "5.4"
+                                },
+                                {
+                                    "areaId": "640",
+                                    "indexValue": "1.7"
+                                },
+                                {
+                                    "areaId": "647",
+                                    "indexValue": "68"
+                                },
+                                {
+                                    "areaId": "761",
+                                    "indexValue": "2.5"
+                                },
+                                {
+                                    "areaId": "13",
+                                    "indexValue": "5.4"
+                                },
+                                {
+                                    "areaId": "133049",
+                                    "indexValue": "1.7"
+                                },
+                                {
+                                    "areaId": "152476",
+                                    "indexValue": "5.4"
+                                },
+                                {
+                                    "areaId": "0",
+                                    "indexValue": "1.7"
+                                }
+                            ]
+                        },
+                        {
+                            "productName": "全屋WIFI礼包",
+                            "class1Name": "新增（万户）",
+                            "class2Name": "确保",
+                            "dataList": [
+                                {
+                                    "areaId": "111",
+                                    "indexValue": "35.7"
+                                },
+                                {
+                                    "areaId": "434",
+                                    "indexValue": "27.5"
+                                },
+                                {
+                                    "areaId": "112",
+                                    "indexValue": "22.7"
+                                },
+                                {
+                                    "areaId": "447",
+                                    "indexValue": "11.7"
+                                },
+                                {
+                                    "areaId": "448",
+                                    "indexValue": "8.5"
+                                },
+                                {
+                                    "areaId": "449",
+                                    "indexValue": "12.3"
+                                },
+                                {
+                                    "areaId": "450",
+                                    "indexValue": "15.2"
+                                },
+                                {
+                                    "areaId": "60",
+                                    "indexValue": "5.3"
+                                },
+                                {
+                                    "areaId": "613",
+                                    "indexValue": "5.1"
+                                },
+                                {
+                                    "areaId": "639",
+                                    "indexValue": "13.1"
+                                },
+                                {
+                                    "areaId": "640",
+                                    "indexValue": "2.9"
+                                },
+                                {
+                                    "areaId": "647",
+                                    "indexValue": "160"
+                                },
+                                {
+                                    "areaId": "761",
+                                    "indexValue": "5.1"
+                                },
+                                {
+                                    "areaId": "13",
+                                    "indexValue": "13.1"
+                                },
+                                {
+                                    "areaId": "133049",
+                                    "indexValue": "2.9"
+                                },
+                                {
+                                    "areaId": "152476",
+                                    "indexValue": "13.1"
+                                },
+                                {
+                                    "areaId": "0",
+                                    "indexValue": "2.9"
+                                }
+                            ]
+                        },
+                        {
+                            "productName": "全屋WIFI礼包",
+                            "class1Name": "新增（万户）",
+                            "class2Name": "奋斗",
+                            "dataList": [
+                                {
+                                    "areaId": "111",
+                                    "indexValue": "43"
+                                },
+                                {
+                                    "areaId": "434",
+                                    "indexValue": "33"
+                                },
+                                {
+                                    "areaId": "112",
+                                    "indexValue": "27"
+                                },
+                                {
+                                    "areaId": "447",
+                                    "indexValue": "14"
+                                },
+                                {
+                                    "areaId": "448",
+                                    "indexValue": "10"
+                                },
+                                {
+                                    "areaId": "449",
+                                    "indexValue": "15"
+                                },
+                                {
+                                    "areaId": "450",
+                                    "indexValue": "18"
+                                },
+                                {
+                                    "areaId": "60",
+                                    "indexValue": "6"
+                                },
+                                {
+                                    "areaId": "613",
+                                    "indexValue": "6"
+                                },
+                                {
+                                    "areaId": "639",
+                                    "indexValue": "16"
+                                },
+                                {
+                                    "areaId": "640",
+                                    "indexValue": "3"
+                                },
+                                {
+                                    "areaId": "647",
+                                    "indexValue": "191"
+                                },
+                                {
+                                    "areaId": "761",
+                                    "indexValue": "6"
+                                },
+                                {
+                                    "areaId": "13",
+                                    "indexValue": "16"
+                                },
+                                {
+                                    "areaId": "133049",
+                                    "indexValue": "3"
+                                },
+                                {
+                                    "areaId": "152476",
+                                    "indexValue": "16"
+                                },
+                                {
+                                    "areaId": "0",
+                                    "indexValue": "3"
+                                }
+                            ]
+                        },
+                        {
+                            "productName": "天翼看家",
+                            "class1Name": "新增（万户）",
+                            "class2Name": "确保",
+                            "dataList": [
+                                {
+                                    "areaId": "111",
+                                    "indexValue": "12.2"
+                                },
+                                {
+                                    "areaId": "434",
+                                    "indexValue": "9.2"
+                                },
+                                {
+                                    "areaId": "112",
+                                    "indexValue": "7.6"
+                                },
+                                {
+                                    "areaId": "447",
+                                    "indexValue": "4"
+                                },
+                                {
+                                    "areaId": "448",
+                                    "indexValue": "2.8"
+                                },
+                                {
+                                    "areaId": "449",
+                                    "indexValue": "4.3"
+                                },
+                                {
+                                    "areaId": "450",
+                                    "indexValue": "5.8"
+                                },
+                                {
+                                    "areaId": "60",
+                                    "indexValue": "1.8"
+                                },
+                                {
+                                    "areaId": "613",
+                                    "indexValue": "1.5"
+                                },
+                                {
+                                    "areaId": "639",
+                                    "indexValue": "4.6"
+                                },
+                                {
+                                    "areaId": "640",
+                                    "indexValue": "1.2"
+                                },
+                                {
+                                    "areaId": "647",
+                                    "indexValue": "55"
+                                },
+                                {
+                                    "areaId": "761",
+                                    "indexValue": "1.5"
+                                },
+                                {
+                                    "areaId": "13",
+                                    "indexValue": "4.6"
+                                },
+                                {
+                                    "areaId": "133049",
+                                    "indexValue": "1.2"
+                                },
+                                {
+                                    "areaId": "152476",
+                                    "indexValue": "4.6"
+                                },
+                                {
+                                    "areaId": "0",
+                                    "indexValue": "1.2"
+                                }
+                            ]
+                        },
+                        {
+                            "productName": "天翼看家",
+                            "class1Name": "新增（万户）",
+                            "class2Name": "奋斗",
+                            "dataList": [
+                                {
+                                    "areaId": "111",
+                                    "indexValue": "14.4"
+                                },
+                                {
+                                    "areaId": "434",
+                                    "indexValue": "10.9"
+                                },
+                                {
+                                    "areaId": "112",
+                                    "indexValue": "9"
+                                },
+                                {
+                                    "areaId": "447",
+                                    "indexValue": "4.7"
+                                },
+                                {
+                                    "areaId": "448",
+                                    "indexValue": "3.3"
+                                },
+                                {
+                                    "areaId": "449",
+                                    "indexValue": "5.1"
+                                },
+                                {
+                                    "areaId": "450",
+                                    "indexValue": "6.9"
+                                },
+                                {
+                                    "areaId": "60",
+                                    "indexValue": "2.1"
+                                },
+                                {
+                                    "areaId": "613",
+                                    "indexValue": "1.8"
+                                },
+                                {
+                                    "areaId": "639",
+                                    "indexValue": "5.4"
+                                },
+                                {
+                                    "areaId": "640",
+                                    "indexValue": "1.4"
+                                },
+                                {
+                                    "areaId": "647",
+                                    "indexValue": "65"
+                                },
+                                {
+                                    "areaId": "761",
+                                    "indexValue": "1.8"
+                                },
+                                {
+                                    "areaId": "13",
+                                    "indexValue": "5.4"
+                                },
+                                {
+                                    "areaId": "133049",
+                                    "indexValue": "1.4"
+                                },
+                                {
+                                    "areaId": "152476",
+                                    "indexValue": "5.4"
+                                },
+                                {
+                                    "areaId": "0",
+                                    "indexValue": "1.4"
+                                }
+                            ]
+                        },
+                        {
+                            "productName": "高清内容包",
+                            "class1Name": "新增（万户）",
+                            "class2Name": "确保",
+                            "dataList": [
+                                {
+                                    "areaId": "448",
+                                    "indexValue": "1.9"
+                                },
+                                {
+                                    "areaId": "449",
+                                    "indexValue": "3.7"
+                                },
+                                {
+                                    "areaId": "450",
+                                    "indexValue": "3.9"
+                                },
+                                {
+                                    "areaId": "60",
+                                    "indexValue": "1.5"
+                                },
+                                {
+                                    "areaId": "613",
+                                    "indexValue": "1.3"
+                                },
+                                {
+                                    "areaId": "639",
+                                    "indexValue": "3.4"
+                                },
+                                {
+                                    "areaId": "640",
+                                    "indexValue": "0.8"
+                                },
+                                {
+                                    "areaId": "647",
+                                    "indexValue": "41"
+                                },
+                                {
+                                    "areaId": "761",
+                                    "indexValue": "1.3"
+                                },
+                                {
+                                    "areaId": "13",
+                                    "indexValue": "3.4"
+                                },
+                                {
+                                    "areaId": "133049",
+                                    "indexValue": "0.8"
+                                },
+                                {
+                                    "areaId": "152476",
+                                    "indexValue": "3.4"
+                                },
+                                {
+                                    "areaId": "0",
+                                    "indexValue": "0.8"
+                                },
+                                {
+                                    "areaId": "111",
+                                    "indexValue": "9.7"
+                                },
+                                {
+                                    "areaId": "434",
+                                    "indexValue": "6.9"
+                                },
+                                {
+                                    "areaId": "112",
+                                    "indexValue": "5.1"
+                                },
+                                {
+                                    "areaId": "447",
+                                    "indexValue": "2.8"
+                                }
+                            ]
+                        },
+                        {
+                            "productName": "高清内容包",
+                            "class1Name": "新增（万户）",
+                            "class2Name": "奋斗",
+                            "dataList": [
+                                {
+                                    "areaId": "111",
+                                    "indexValue": "11.1"
+                                },
+                                {
+                                    "areaId": "434",
+                                    "indexValue": "7.9"
+                                },
+                                {
+                                    "areaId": "112",
+                                    "indexValue": "5.9"
+                                },
+                                {
+                                    "areaId": "447",
+                                    "indexValue": "3.3"
+                                },
+                                {
+                                    "areaId": "448",
+                                    "indexValue": "2.2"
+                                },
+                                {
+                                    "areaId": "449",
+                                    "indexValue": "4.2"
+                                },
+                                {
+                                    "areaId": "450",
+                                    "indexValue": "4.3"
+                                },
+                                {
+                                    "areaId": "60",
+                                    "indexValue": "1.7"
+                                },
+                                {
+                                    "areaId": "613",
+                                    "indexValue": "1.5"
+                                },
+                                {
+                                    "areaId": "639",
+                                    "indexValue": "3.9"
+                                },
+                                {
+                                    "areaId": "640",
+                                    "indexValue": "1"
+                                },
+                                {
+                                    "areaId": "647",
+                                    "indexValue": "47"
+                                },
+                                {
+                                    "areaId": "761",
+                                    "indexValue": "1.5"
+                                },
+                                {
+                                    "areaId": "13",
+                                    "indexValue": "3.9"
+                                },
+                                {
+                                    "areaId": "133049",
+                                    "indexValue": "1"
+                                },
+                                {
+                                    "areaId": "152476",
+                                    "indexValue": "3.9"
+                                },
+                                {
+                                    "areaId": "0",
+                                    "indexValue": "1"
+                                }
+                            ]
+                        },
+                        {
+                            "productName": "家庭云",
+                            "class1Name": "新增（万户）",
+                            "class2Name": "确保",
+                            "dataList": [
+                                {
+                                    "areaId": "111",
+                                    "indexValue": "8"
+                                },
+                                {
+                                    "areaId": "434",
+                                    "indexValue": "6.1"
+                                },
+                                {
+                                    "areaId": "112",
+                                    "indexValue": "5"
+                                },
+                                {
+                                    "areaId": "447",
+                                    "indexValue": "2.6"
+                                },
+                                {
+                                    "areaId": "448",
+                                    "indexValue": "1.8"
+                                },
+                                {
+                                    "areaId": "449",
+                                    "indexValue": "2.8"
+                                },
+                                {
+                                    "areaId": "450",
+                                    "indexValue": "3.7"
+                                },
+                                {
+                                    "areaId": "60",
+                                    "indexValue": "1.2"
+                                },
+                                {
+                                    "areaId": "613",
+                                    "indexValue": "1.1"
+                                },
+                                {
+                                    "areaId": "639",
+                                    "indexValue": "3"
+                                },
+                                {
+                                    "areaId": "640",
+                                    "indexValue": "0.7"
+                                },
+                                {
+                                    "areaId": "647",
+                                    "indexValue": "36"
+                                },
+                                {
+                                    "areaId": "761",
+                                    "indexValue": "1.1"
+                                },
+                                {
+                                    "areaId": "13",
+                                    "indexValue": "3"
+                                },
+                                {
+                                    "areaId": "133049",
+                                    "indexValue": "0.7"
+                                },
+                                {
+                                    "areaId": "152476",
+                                    "indexValue": "3"
+                                },
+                                {
+                                    "areaId": "0",
+                                    "indexValue": "0.7"
+                                }
+                            ]
+                        },
+                        {
+                            "productName": "家庭云",
+                            "class1Name": "新增（万户）",
+                            "class2Name": "奋斗",
+                            "dataList": [
+                                {
+                                    "areaId": "448",
+                                    "indexValue": "2.2"
+                                },
+                                {
+                                    "areaId": "449",
+                                    "indexValue": "3.3"
+                                },
+                                {
+                                    "areaId": "450",
+                                    "indexValue": "4.4"
+                                },
+                                {
+                                    "areaId": "60",
+                                    "indexValue": "1.5"
+                                },
+                                {
+                                    "areaId": "613",
+                                    "indexValue": "1.3"
+                                },
+                                {
+                                    "areaId": "639",
+                                    "indexValue": "3.6"
+                                },
+                                {
+                                    "areaId": "640",
+                                    "indexValue": "0.8"
+                                },
+                                {
+                                    "areaId": "647",
+                                    "indexValue": "43"
+                                },
+                                {
+                                    "areaId": "761",
+                                    "indexValue": "1.3"
+                                },
+                                {
+                                    "areaId": "13",
+                                    "indexValue": "3.6"
+                                },
+                                {
+                                    "areaId": "133049",
+                                    "indexValue": "0.8"
+                                },
+                                {
+                                    "areaId": "152476",
+                                    "indexValue": "3.6"
+                                },
+                                {
+                                    "areaId": "0",
+                                    "indexValue": "0.8"
+                                },
+                                {
+                                    "areaId": "111",
+                                    "indexValue": "9.5"
+                                },
+                                {
+                                    "areaId": "434",
+                                    "indexValue": "7.3"
+                                },
+                                {
+                                    "areaId": "112",
+                                    "indexValue": "6"
+                                },
+                                {
+                                    "areaId": "447",
+                                    "indexValue": "3.1"
+                                }
+                            ]
+                        },
+                        {
+                            "productName": "物联网",
+                            "class1Name": "开卡新增（万户）",
+                            "class2Name": "确保",
+                            "dataList": [
+                                {
+                                    "areaId": "111",
+                                    "indexValue": "282"
+                                },
+                                {
+                                    "areaId": "434",
+                                    "indexValue": "120"
+                                },
+                                {
+                                    "areaId": "112",
+                                    "indexValue": "100"
+                                },
+                                {
+                                    "areaId": "447",
+                                    "indexValue": "53"
+                                },
+                                {
+                                    "areaId": "448",
+                                    "indexValue": "27"
+                                },
+                                {
+                                    "areaId": "449",
+                                    "indexValue": "53"
+                                },
+                                {
+                                    "areaId": "450",
+                                    "indexValue": "53"
+                                },
+                                {
+                                    "areaId": "60",
+                                    "indexValue": "7.5"
+                                },
+                                {
+                                    "areaId": "613",
+                                    "indexValue": "7.5"
+                                },
+                                {
+                                    "areaId": "639",
+                                    "indexValue": "53"
+                                },
+                                {
+                                    "areaId": "640",
+                                    "indexValue": "4"
+                                },
+                                {
+                                    "areaId": "647",
+                                    "indexValue": "760"
+                                },
+                                {
+                                    "areaId": "761",
+                                    "indexValue": "7.5"
+                                },
+                                {
+                                    "areaId": "13",
+                                    "indexValue": "53"
+                                },
+                                {
+                                    "areaId": "133049",
+                                    "indexValue": "4"
+                                },
+                                {
+                                    "areaId": "152476",
+                                    "indexValue": "53"
+                                },
+                                {
+                                    "areaId": "0",
+                                    "indexValue": "4"
+                                }
+                            ]
+                        },
+                        {
+                            "productName": "物联网",
+                            "class1Name": "开卡新增（万户）",
+                            "class2Name": "奋斗",
+                            "dataList": [
+                                {
+                                    "areaId": "111",
+                                    "indexValue": "353"
+                                },
+                                {
+                                    "areaId": "434",
+                                    "indexValue": "150"
+                                },
+                                {
+                                    "areaId": "112",
+                                    "indexValue": "125"
+                                },
+                                {
+                                    "areaId": "447",
+                                    "indexValue": "66"
+                                },
+                                {
+                                    "areaId": "448",
+                                    "indexValue": "34"
+                                },
+                                {
+                                    "areaId": "449",
+                                    "indexValue": "66"
+                                },
+                                {
+                                    "areaId": "450",
+                                    "indexValue": "66"
+                                },
+                                {
+                                    "areaId": "60",
+                                    "indexValue": "9.5"
+                                },
+                                {
+                                    "areaId": "613",
+                                    "indexValue": "9.5"
+                                },
+                                {
+                                    "areaId": "639",
+                                    "indexValue": "66"
+                                },
+                                {
+                                    "areaId": "640",
+                                    "indexValue": "5"
+                                },
+                                {
+                                    "areaId": "647",
+                                    "indexValue": "950"
+                                },
+                                {
+                                    "areaId": "761",
+                                    "indexValue": "9.5"
+                                },
+                                {
+                                    "areaId": "13",
+                                    "indexValue": "66"
+                                },
+                                {
+                                    "areaId": "133049",
+                                    "indexValue": "5"
+                                },
+                                {
+                                    "areaId": "152476",
+                                    "indexValue": "66"
+                                },
+                                {
+                                    "areaId": "0",
+                                    "indexValue": "5"
+                                }
+                            ]
+                        },
+                        {
+                            "productName": "物联网",
+                            "class1Name": "出账净增（万户）",
+                            "class2Name": "确保",
+                            "dataList": [
+                                {
+                                    "areaId": "111",
+                                    "indexValue": "115"
+                                },
+                                {
+                                    "areaId": "434",
+                                    "indexValue": "43"
+                                },
+                                {
+                                    "areaId": "112",
+                                    "indexValue": "32"
+                                },
+                                {
+                                    "areaId": "447",
+                                    "indexValue": "12"
+                                },
+                                {
+                                    "areaId": "448",
+                                    "indexValue": "8"
+                                },
+                                {
+                                    "areaId": "449",
+                                    "indexValue": "17"
+                                },
+                                {
+                                    "areaId": "450",
+                                    "indexValue": "12"
+                                },
+                                {
+                                    "areaId": "60",
+                                    "indexValue": "3"
+                                },
+                                {
+                                    "areaId": "613",
+                                    "indexValue": "2"
+                                },
+                                {
+                                    "areaId": "639",
+                                    "indexValue": "15"
+                                },
+                                {
+                                    "areaId": "640",
+                                    "indexValue": "1"
+                                },
+                                {
+                                    "areaId": "647",
+                                    "indexValue": "260"
+                                },
+                                {
+                                    "areaId": "761",
+                                    "indexValue": "2"
+                                },
+                                {
+                                    "areaId": "13",
+                                    "indexValue": "15"
+                                },
+                                {
+                                    "areaId": "133049",
+                                    "indexValue": "1"
+                                },
+                                {
+                                    "areaId": "152476",
+                                    "indexValue": "15"
+                                },
+                                {
+                                    "areaId": "0",
+                                    "indexValue": "1"
+                                }
+                            ]
+                        },
+                        {
+                            "productName": "物联网",
+                            "class1Name": "出账净增（万户）",
+                            "class2Name": "奋斗",
+                            "dataList": [
+                                {
+                                    "areaId": "111",
+                                    "indexValue": "21850"
+                                },
+                                {
+                                    "areaId": "434",
+                                    "indexValue": "8170"
+                                },
+                                {
+                                    "areaId": "112",
+                                    "indexValue": "36"
+                                },
+                                {
+                                    "areaId": "447",
+                                    "indexValue": "13.2"
+                                },
+                                {
+                                    "areaId": "448",
+                                    "indexValue": "9"
+                                },
+                                {
+                                    "areaId": "449",
+                                    "indexValue": "3230"
+                                },
+                                {
+                                    "areaId": "450",
+                                    "indexValue": "13.2"
+                                },
+                                {
+                                    "areaId": "60",
+                                    "indexValue": "570"
+                                },
+                                {
+                                    "areaId": "613",
+                                    "indexValue": "380"
+                                },
+                                {
+                                    "areaId": "639",
+                                    "indexValue": "17"
+                                },
+                                {
+                                    "areaId": "640",
+                                    "indexValue": "190"
+                                },
+                                {
+                                    "areaId": "647",
+                                    "indexValue": "34478.4"
+                                },
+                                {
+                                    "areaId": "761",
+                                    "indexValue": "380"
+                                },
+                                {
+                                    "areaId": "13",
+                                    "indexValue": "17"
+                                },
+                                {
+                                    "areaId": "133049",
+                                    "indexValue": "190"
+                                },
+                                {
+                                    "areaId": "152476",
+                                    "indexValue": "17"
+                                },
+                                {
+                                    "areaId": "0",
+                                    "indexValue": "190"
+                                }
+                            ]
+                        },
+                        {
+                            "productName": "上网专线",
+                            "class1Name": "新增（万户）",
+                            "class2Name": "新增（万户）",
+                            "dataList": [
+                                {
+                                    "areaId": "111",
+                                    "indexValue": "2.79"
+                                },
+                                {
+                                    "areaId": "434",
+                                    "indexValue": "2.37"
+                                },
+                                {
+                                    "areaId": "112",
+                                    "indexValue": "1.92"
+                                },
+                                {
+                                    "areaId": "447",
+                                    "indexValue": "0.93"
+                                },
+                                {
+                                    "areaId": "448",
+                                    "indexValue": "0.66"
+                                },
+                                {
+                                    "areaId": "449",
+                                    "indexValue": "0.97"
+                                },
+                                {
+                                    "areaId": "450",
+                                    "indexValue": "1.09"
+                                },
+                                {
+                                    "areaId": "60",
+                                    "indexValue": "0.47"
+                                },
+                                {
+                                    "areaId": "613",
+                                    "indexValue": "0.41"
+                                },
+                                {
+                                    "areaId": "639",
+                                    "indexValue": "1.06"
+                                },
+                                {
+                                    "areaId": "640",
+                                    "indexValue": "0.33"
+                                },
+                                {
+                                    "areaId": "647",
+                                    "indexValue": "13"
+                                },
+                                {
+                                    "areaId": "761",
+                                    "indexValue": "0.41"
+                                },
+                                {
+                                    "areaId": "13",
+                                    "indexValue": "1.06"
+                                },
+                                {
+                                    "areaId": "133049",
+                                    "indexValue": "0.33"
+                                },
+                                {
+                                    "areaId": "152476",
+                                    "indexValue": "1.06"
+                                },
+                                {
+                                    "areaId": "0",
+                                    "indexValue": "0.33"
+                                }
+                            ]
+                        },
+                        {
+                            "productName": "组网专线",
+                            "class1Name": "新增（户）",
+                            "class2Name": "新增（户）",
+                            "dataList": [
+                                {
+                                    "areaId": "111",
+                                    "indexValue": "9056"
+                                },
+                                {
+                                    "areaId": "434",
+                                    "indexValue": "9941"
+                                },
+                                {
+                                    "areaId": "112",
+                                    "indexValue": "5588"
+                                },
+                                {
+                                    "areaId": "447",
+                                    "indexValue": "3840"
+                                },
+                                {
+                                    "areaId": "448",
+                                    "indexValue": "2128"
+                                },
+                                {
+                                    "areaId": "449",
+                                    "indexValue": "4829"
+                                },
+                                {
+                                    "areaId": "450",
+                                    "indexValue": "3729"
+                                },
+                                {
+                                    "areaId": "60",
+                                    "indexValue": "1536"
+                                },
+                                {
+                                    "areaId": "613",
+                                    "indexValue": "1771"
+                                },
+                                {
+                                    "areaId": "639",
+                                    "indexValue": "5902"
+                                },
+                                {
+                                    "areaId": "640",
+                                    "indexValue": "1680"
+                                },
+                                {
+                                    "areaId": "647",
+                                    "indexValue": "50000"
+                                },
+                                {
+                                    "areaId": "761",
+                                    "indexValue": "1771"
+                                },
+                                {
+                                    "areaId": "13",
+                                    "indexValue": "5902"
+                                },
+                                {
+                                    "areaId": "133049",
+                                    "indexValue": "1680"
+                                },
+                                {
+                                    "areaId": "152476",
+                                    "indexValue": "5902"
+                                },
+                                {
+                                    "areaId": "0",
+                                    "indexValue": "1680"
+                                }
+                            ]
+                        },
+                        {
+                            "productName": "智慧企业",
+                            "class1Name": "新增（户）",
+                            "class2Name": "新增（户）",
+                            "dataList": [
+                                {
+                                    "areaId": "111",
+                                    "indexValue": "27000"
+                                },
+                                {
+                                    "areaId": "434",
+                                    "indexValue": "20400"
+                                },
+                                {
+                                    "areaId": "112",
+                                    "indexValue": "18000"
+                                },
+                                {
+                                    "areaId": "447",
+                                    "indexValue": "8400"
+                                },
+                                {
+                                    "areaId": "448",
+                                    "indexValue": "4800"
+                                },
+                                {
+                                    "areaId": "449",
+                                    "indexValue": "9600"
+                                },
+                                {
+                                    "areaId": "450",
+                                    "indexValue": "10800"
+                                },
+                                {
+                                    "areaId": "60",
+                                    "indexValue": "3720"
+                                },
+                                {
+                                    "areaId": "613",
+                                    "indexValue": "3720"
+                                },
+                                {
+                                    "areaId": "639",
+                                    "indexValue": "10200"
+                                },
+                                {
+                                    "areaId": "640",
+                                    "indexValue": "3360"
+                                },
+                                {
+                                    "areaId": "647",
+                                    "indexValue": "120000"
+                                },
+                                {
+                                    "areaId": "761",
+                                    "indexValue": "3720"
+                                },
+                                {
+                                    "areaId": "13",
+                                    "indexValue": "10200"
+                                },
+                                {
+                                    "areaId": "133049",
+                                    "indexValue": "3360"
+                                },
+                                {
+                                    "areaId": "152476",
+                                    "indexValue": "10200"
+                                },
+                                {
+                                    "areaId": "0",
+                                    "indexValue": "3360"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "parentName": "分渠道预算目标",
+                    "dataList": [
+                        {
+                            "productName": "移动新增",
+                            "class1Name": "确保",
+                            "class2Name": "实体",
+                            "dataList": [
+                                {
+                                    "areaId": "111",
+                                    "indexValue": "97.9"
+                                },
+                                {
+                                    "areaId": "434",
+                                    "indexValue": "62.4"
+                                },
+                                {
+                                    "areaId": "112",
+                                    "indexValue": "58"
+                                },
+                                {
+                                    "areaId": "447",
+                                    "indexValue": "29.6"
+                                },
+                                {
+                                    "areaId": "448",
+                                    "indexValue": "17.7"
+                                },
+                                {
+                                    "areaId": "449",
+                                    "indexValue": "31.5"
+                                },
+                                {
+                                    "areaId": "450",
+                                    "indexValue": "38.5"
+                                },
+                                {
+                                    "areaId": "60",
+                                    "indexValue": "97.9"
+                                },
+                                {
+                                    "areaId": "613",
+                                    "indexValue": "62.4"
+                                },
+                                {
+                                    "areaId": "639",
+                                    "indexValue": "58"
+                                },
+                                {
+                                    "areaId": "640",
+                                    "indexValue": "29.6"
+                                },
+                                {
+                                    "areaId": "647",
+                                    "indexValue": "17.7"
+                                },
+                                {
+                                    "areaId": "761",
+                                    "indexValue": "31.5"
+                                },
+                                {
+                                    "areaId": "13",
+                                    "indexValue": "38.5"
+                                },
+                                {
+                                    "areaId": "133049",
+                                    "indexValue": "11.3"
+                                },
+                                {
+                                    "areaId": "152476",
+                                    "indexValue": "10.1"
+                                },
+                                {
+                                    "areaId": "0",
+                                    "indexValue": "32.8"
+                                }
+                            ]
+                        },
+                        {
+                            "productName": "移动新增",
+                            "class1Name": "确保",
+                            "class2Name": "政企",
+                            "dataList": [
+                                {
+                                    "areaId": "111",
+                                    "indexValue": "33.5"
+                                },
+                                {
+                                    "areaId": "434",
+                                    "indexValue": "21.5"
+                                },
+                                {
+                                    "areaId": "112",
+                                    "indexValue": "20"
+                                },
+                                {
+                                    "areaId": "447",
+                                    "indexValue": "10.2"
+                                },
+                                {
+                                    "areaId": "448",
+                                    "indexValue": "6.1"
+                                },
+                                {
+                                    "areaId": "449",
+                                    "indexValue": "10.9"
+                                },
+                                {
+                                    "areaId": "450",
+                                    "indexValue": "13.3"
+                                },
+                                {
+                                    "areaId": "60",
+                                    "indexValue": "33.5"
+                                },
+                                {
+                                    "areaId": "613",
+                                    "indexValue": "21.5"
+                                },
+                                {
+                                    "areaId": "639",
+                                    "indexValue": "20"
+                                },
+                                {
+                                    "areaId": "640",
+                                    "indexValue": "10.2"
+                                },
+                                {
+                                    "areaId": "647",
+                                    "indexValue": "6.1"
+                                },
+                                {
+                                    "areaId": "761",
+                                    "indexValue": "10.9"
+                                },
+                                {
+                                    "areaId": "13",
+                                    "indexValue": "13.3"
+                                },
+                                {
+                                    "areaId": "133049",
+                                    "indexValue": "3.9"
+                                },
+                                {
+                                    "areaId": "152476",
+                                    "indexValue": "3.5"
+                                },
+                                {
+                                    "areaId": "0",
+                                    "indexValue": "11.3"
+                                }
+                            ]
+                        },
+                        {
+                            "productName": "移动新增",
+                            "class1Name": "确保",
+                            "class2Name": "电子",
+                            "dataList": [
+                                {
+                                    "areaId": "111",
+                                    "indexValue": "23.6"
+                                },
+                                {
+                                    "areaId": "434",
+                                    "indexValue": "15.1"
+                                },
+                                {
+                                    "areaId": "112",
+                                    "indexValue": "14"
+                                },
+                                {
+                                    "areaId": "447",
+                                    "indexValue": "7.2"
+                                },
+                                {
+                                    "areaId": "448",
+                                    "indexValue": "4.2"
+                                },
+                                {
+                                    "areaId": "449",
+                                    "indexValue": "7.6"
+                                },
+                                {
+                                    "areaId": "450",
+                                    "indexValue": "9.2"
+                                },
+                                {
+                                    "areaId": "60",
+                                    "indexValue": "23.6"
+                                },
+                                {
+                                    "areaId": "613",
+                                    "indexValue": "15.1"
+                                },
+                                {
+                                    "areaId": "639",
+                                    "indexValue": "14"
+                                },
+                                {
+                                    "areaId": "640",
+                                    "indexValue": "7.2"
+                                },
+                                {
+                                    "areaId": "647",
+                                    "indexValue": "4.2"
+                                },
+                                {
+                                    "areaId": "761",
+                                    "indexValue": "7.6"
+                                },
+                                {
+                                    "areaId": "13",
+                                    "indexValue": "9.2"
+                                },
+                                {
+                                    "areaId": "133049",
+                                    "indexValue": "2.8"
+                                },
+                                {
+                                    "areaId": "152476",
+                                    "indexValue": "2.4"
+                                },
+                                {
+                                    "areaId": "0",
+                                    "indexValue": "7.90000000000001"
+                                }
+                            ]
+                        },
+                        {
+                            "productName": "移动新增",
+                            "class1Name": "确保",
+                            "class2Name": "合计",
+                            "dataList": [
+                                {
+                                    "areaId": "111",
+                                    "indexValue": "155"
+                                },
+                                {
+                                    "areaId": "434",
+                                    "indexValue": "99"
+                                },
+                                {
+                                    "areaId": "112",
+                                    "indexValue": "92"
+                                },
+                                {
+                                    "areaId": "447",
+                                    "indexValue": "47"
+                                },
+                                {
+                                    "areaId": "448",
+                                    "indexValue": "28"
+                                },
+                                {
+                                    "areaId": "449",
+                                    "indexValue": "50"
+                                },
+                                {
+                                    "areaId": "450",
+                                    "indexValue": "61"
+                                },
+                                {
+                                    "areaId": "60",
+                                    "indexValue": "155"
+                                },
+                                {
+                                    "areaId": "613",
+                                    "indexValue": "99"
+                                },
+                                {
+                                    "areaId": "639",
+                                    "indexValue": "92"
+                                },
+                                {
+                                    "areaId": "640",
+                                    "indexValue": "47"
+                                },
+                                {
+                                    "areaId": "647",
+                                    "indexValue": "28"
+                                },
+                                {
+                                    "areaId": "761",
+                                    "indexValue": "50"
+                                },
+                                {
+                                    "areaId": "13",
+                                    "indexValue": "61"
+                                },
+                                {
+                                    "areaId": "133049",
+                                    "indexValue": "18"
+                                },
+                                {
+                                    "areaId": "152476",
+                                    "indexValue": "16"
+                                },
+                                {
+                                    "areaId": "0",
+                                    "indexValue": "52"
+                                }
+                            ]
+                        },
+                        {
+                            "productName": "移动新增",
+                            "class1Name": "奋斗",
+                            "class2Name": "实体",
+                            "dataList": [
+                                {
+                                    "areaId": "111",
+                                    "indexValue": "133.9"
+                                },
+                                {
+                                    "areaId": "434",
+                                    "indexValue": "85.4"
+                                },
+                                {
+                                    "areaId": "112",
+                                    "indexValue": "79.4"
+                                },
+                                {
+                                    "areaId": "447",
+                                    "indexValue": "40.3"
+                                },
+                                {
+                                    "areaId": "448",
+                                    "indexValue": "24"
+                                },
+                                {
+                                    "areaId": "449",
+                                    "indexValue": "42.8"
+                                },
+                                {
+                                    "areaId": "450",
+                                    "indexValue": "52.4"
+                                },
+                                {
+                                    "areaId": "60",
+                                    "indexValue": "133.9"
+                                },
+                                {
+                                    "areaId": "613",
+                                    "indexValue": "85.4"
+                                },
+                                {
+                                    "areaId": "639",
+                                    "indexValue": "79.4"
+                                },
+                                {
+                                    "areaId": "640",
+                                    "indexValue": "40.3"
+                                },
+                                {
+                                    "areaId": "647",
+                                    "indexValue": "24"
+                                },
+                                {
+                                    "areaId": "761",
+                                    "indexValue": "42.8"
+                                },
+                                {
+                                    "areaId": "13",
+                                    "indexValue": "52.4"
+                                },
+                                {
+                                    "areaId": "133049",
+                                    "indexValue": "15.7"
+                                },
+                                {
+                                    "areaId": "152476",
+                                    "indexValue": "13.9"
+                                },
+                                {
+                                    "areaId": "0",
+                                    "indexValue": "44.8"
+                                }
+                            ]
+                        },
+                        {
+                            "productName": "移动新增",
+                            "class1Name": "奋斗",
+                            "class2Name": "政企",
+                            "dataList": [
+                                {
+                                    "areaId": "111",
+                                    "indexValue": "45.8"
+                                },
+                                {
+                                    "areaId": "434",
+                                    "indexValue": "29.2"
+                                },
+                                {
+                                    "areaId": "112",
+                                    "indexValue": "27.4"
+                                },
+                                {
+                                    "areaId": "447",
+                                    "indexValue": "13.9"
+                                },
+                                {
+                                    "areaId": "448",
+                                    "indexValue": "8.3"
+                                },
+                                {
+                                    "areaId": "449",
+                                    "indexValue": "14.8"
+                                },
+                                {
+                                    "areaId": "450",
+                                    "indexValue": "18.1"
+                                },
+                                {
+                                    "areaId": "60",
+                                    "indexValue": "45.8"
+                                },
+                                {
+                                    "areaId": "613",
+                                    "indexValue": "29.2"
+                                },
+                                {
+                                    "areaId": "639",
+                                    "indexValue": "27.4"
+                                },
+                                {
+                                    "areaId": "640",
+                                    "indexValue": "13.9"
+                                },
+                                {
+                                    "areaId": "647",
+                                    "indexValue": "8.3"
+                                },
+                                {
+                                    "areaId": "761",
+                                    "indexValue": "14.8"
+                                },
+                                {
+                                    "areaId": "13",
+                                    "indexValue": "18.1"
+                                },
+                                {
+                                    "areaId": "133049",
+                                    "indexValue": "5.4"
+                                },
+                                {
+                                    "areaId": "152476",
+                                    "indexValue": "4.8"
+                                },
+                                {
+                                    "areaId": "0",
+                                    "indexValue": "15.4"
+                                }
+                            ]
+                        },
+                        {
+                            "productName": "移动新增",
+                            "class1Name": "奋斗",
+                            "class2Name": "电子",
+                            "dataList": [
+                                {
+                                    "areaId": "111",
+                                    "indexValue": "32.3"
+                                },
+                                {
+                                    "areaId": "434",
+                                    "indexValue": "20.4"
+                                },
+                                {
+                                    "areaId": "112",
+                                    "indexValue": "19.2"
+                                },
+                                {
+                                    "areaId": "447",
+                                    "indexValue": "9.8"
+                                },
+                                {
+                                    "areaId": "448",
+                                    "indexValue": "5.7"
+                                },
+                                {
+                                    "areaId": "449",
+                                    "indexValue": "10.4"
+                                },
+                                {
+                                    "areaId": "450",
+                                    "indexValue": "12.5"
+                                },
+                                {
+                                    "areaId": "60",
+                                    "indexValue": "32.3"
+                                },
+                                {
+                                    "areaId": "613",
+                                    "indexValue": "20.4"
+                                },
+                                {
+                                    "areaId": "639",
+                                    "indexValue": "19.2"
+                                },
+                                {
+                                    "areaId": "640",
+                                    "indexValue": "9.8"
+                                },
+                                {
+                                    "areaId": "647",
+                                    "indexValue": "5.7"
+                                },
+                                {
+                                    "areaId": "761",
+                                    "indexValue": "10.4"
+                                },
+                                {
+                                    "areaId": "13",
+                                    "indexValue": "12.5"
+                                },
+                                {
+                                    "areaId": "133049",
+                                    "indexValue": "3.9"
+                                },
+                                {
+                                    "areaId": "152476",
+                                    "indexValue": "3.3"
+                                },
+                                {
+                                    "areaId": "0",
+                                    "indexValue": "10.8"
+                                }
+                            ]
+                        },
+                        {
+                            "productName": "移动新增",
+                            "class1Name": "奋斗",
+                            "class2Name": "合计",
+                            "dataList": [
+                                {
+                                    "areaId": "111",
+                                    "indexValue": "212"
+                                },
+                                {
+                                    "areaId": "434",
+                                    "indexValue": "135"
+                                },
+                                {
+                                    "areaId": "112",
+                                    "indexValue": "126"
+                                },
+                                {
+                                    "areaId": "447",
+                                    "indexValue": "64"
+                                },
+                                {
+                                    "areaId": "448",
+                                    "indexValue": "38"
+                                },
+                                {
+                                    "areaId": "449",
+                                    "indexValue": "68"
+                                },
+                                {
+                                    "areaId": "450",
+                                    "indexValue": "83"
+                                },
+                                {
+                                    "areaId": "60",
+                                    "indexValue": "212"
+                                },
+                                {
+                                    "areaId": "613",
+                                    "indexValue": "135"
+                                },
+                                {
+                                    "areaId": "639",
+                                    "indexValue": "126"
+                                },
+                                {
+                                    "areaId": "640",
+                                    "indexValue": "64"
+                                },
+                                {
+                                    "areaId": "647",
+                                    "indexValue": "38"
+                                },
+                                {
+                                    "areaId": "761",
+                                    "indexValue": "68"
+                                },
+                                {
+                                    "areaId": "13",
+                                    "indexValue": "83"
+                                },
+                                {
+                                    "areaId": "133049",
+                                    "indexValue": "25"
+                                },
+                                {
+                                    "areaId": "152476",
+                                    "indexValue": "22"
+                                },
+                                {
+                                    "areaId": "0",
+                                    "indexValue": "71"
+                                }
+                            ]
+                        },
+                        {
+                            "productName": "宽带新增",
+                            "class1Name": "确保",
+                            "class2Name": "实体",
+                            "dataList": [
+                                {
+                                    "areaId": "111",
+                                    "indexValue": "35.3"
+                                },
+                                {
+                                    "areaId": "434",
+                                    "indexValue": "20.6"
+                                },
+                                {
+                                    "areaId": "112",
+                                    "indexValue": "20.3"
+                                },
+                                {
+                                    "areaId": "447",
+                                    "indexValue": "10.1"
+                                },
+                                {
+                                    "areaId": "448",
+                                    "indexValue": "6"
+                                },
+                                {
+                                    "areaId": "449",
+                                    "indexValue": "9"
+                                },
+                                {
+                                    "areaId": "450",
+                                    "indexValue": "13.5"
+                                },
+                                {
+                                    "areaId": "60",
+                                    "indexValue": "35.3"
+                                },
+                                {
+                                    "areaId": "613",
+                                    "indexValue": "20.6"
+                                },
+                                {
+                                    "areaId": "639",
+                                    "indexValue": "20.3"
+                                },
+                                {
+                                    "areaId": "640",
+                                    "indexValue": "10.1"
+                                },
+                                {
+                                    "areaId": "647",
+                                    "indexValue": "6"
+                                },
+                                {
+                                    "areaId": "761",
+                                    "indexValue": "9"
+                                },
+                                {
+                                    "areaId": "13",
+                                    "indexValue": "13.5"
+                                },
+                                {
+                                    "areaId": "133049",
+                                    "indexValue": "3.7"
+                                },
+                                {
+                                    "areaId": "152476",
+                                    "indexValue": "3.4"
+                                },
+                                {
+                                    "areaId": "0",
+                                    "indexValue": "10.5"
+                                }
+                            ]
+                        },
+                        {
+                            "productName": "宽带新增",
+                            "class1Name": "确保",
+                            "class2Name": "政企",
+                            "dataList": [
+                                {
+                                    "areaId": "111",
+                                    "indexValue": "13.2"
+                                },
+                                {
+                                    "areaId": "434",
+                                    "indexValue": "7.8"
+                                },
+                                {
+                                    "areaId": "112",
+                                    "indexValue": "7.7"
+                                },
+                                {
+                                    "areaId": "447",
+                                    "indexValue": "3.8"
+                                },
+                                {
+                                    "areaId": "448",
+                                    "indexValue": "2.3"
+                                },
+                                {
+                                    "areaId": "449",
+                                    "indexValue": "3.4"
+                                },
+                                {
+                                    "areaId": "450",
+                                    "indexValue": "5.1"
+                                },
+                                {
+                                    "areaId": "60",
+                                    "indexValue": "13.2"
+                                },
+                                {
+                                    "areaId": "613",
+                                    "indexValue": "7.8"
+                                },
+                                {
+                                    "areaId": "639",
+                                    "indexValue": "7.7"
+                                },
+                                {
+                                    "areaId": "640",
+                                    "indexValue": "3.8"
+                                },
+                                {
+                                    "areaId": "647",
+                                    "indexValue": "2.3"
+                                },
+                                {
+                                    "areaId": "761",
+                                    "indexValue": "3.4"
+                                },
+                                {
+                                    "areaId": "13",
+                                    "indexValue": "5.1"
+                                },
+                                {
+                                    "areaId": "133049",
+                                    "indexValue": "1.4"
+                                },
+                                {
+                                    "areaId": "152476",
+                                    "indexValue": "1.3"
+                                },
+                                {
+                                    "areaId": "0",
+                                    "indexValue": "4"
+                                }
+                            ]
+                        },
+                        {
+                            "productName": "宽带新增",
+                            "class1Name": "确保",
+                            "class2Name": "电子",
+                            "dataList": [
+                                {
+                                    "areaId": "111",
+                                    "indexValue": "8.89999999999999"
+                                },
+                                {
+                                    "areaId": "434",
+                                    "indexValue": "5.2"
+                                },
+                                {
+                                    "areaId": "112",
+                                    "indexValue": "5"
+                                },
+                                {
+                                    "areaId": "447",
+                                    "indexValue": "2.6"
+                                },
+                                {
+                                    "areaId": "448",
+                                    "indexValue": "1.5"
+                                },
+                                {
+                                    "areaId": "449",
+                                    "indexValue": "2.3"
+                                },
+                                {
+                                    "areaId": "450",
+                                    "indexValue": "3.4"
+                                },
+                                {
+                                    "areaId": "60",
+                                    "indexValue": "8.89999999999999"
+                                },
+                                {
+                                    "areaId": "613",
+                                    "indexValue": "5.2"
+                                },
+                                {
+                                    "areaId": "639",
+                                    "indexValue": "5"
+                                },
+                                {
+                                    "areaId": "640",
+                                    "indexValue": "2.6"
+                                },
+                                {
+                                    "areaId": "647",
+                                    "indexValue": "1.5"
+                                },
+                                {
+                                    "areaId": "761",
+                                    "indexValue": "2.3"
+                                },
+                                {
+                                    "areaId": "13",
+                                    "indexValue": "3.4"
+                                },
+                                {
+                                    "areaId": "133049",
+                                    "indexValue": "0.999999999999999"
+                                },
+                                {
+                                    "areaId": "152476",
+                                    "indexValue": "0.8"
+                                },
+                                {
+                                    "areaId": "0",
+                                    "indexValue": "2.6"
+                                }
+                            ]
+                        },
+                        {
+                            "productName": "宽带新增",
+                            "class1Name": "确保",
+                            "class2Name": "合计",
+                            "dataList": [
+                                {
+                                    "areaId": "111",
+                                    "indexValue": "57.4"
+                                },
+                                {
+                                    "areaId": "434",
+                                    "indexValue": "33.6"
+                                },
+                                {
+                                    "areaId": "112",
+                                    "indexValue": "33"
+                                },
+                                {
+                                    "areaId": "447",
+                                    "indexValue": "16.5"
+                                },
+                                {
+                                    "areaId": "448",
+                                    "indexValue": "9.8"
+                                },
+                                {
+                                    "areaId": "449",
+                                    "indexValue": "14.7"
+                                },
+                                {
+                                    "areaId": "450",
+                                    "indexValue": "22"
+                                },
+                                {
+                                    "areaId": "60",
+                                    "indexValue": "57.4"
+                                },
+                                {
+                                    "areaId": "613",
+                                    "indexValue": "33.6"
+                                },
+                                {
+                                    "areaId": "639",
+                                    "indexValue": "33"
+                                },
+                                {
+                                    "areaId": "640",
+                                    "indexValue": "16.5"
+                                },
+                                {
+                                    "areaId": "647",
+                                    "indexValue": "9.8"
+                                },
+                                {
+                                    "areaId": "761",
+                                    "indexValue": "14.7"
+                                },
+                                {
+                                    "areaId": "13",
+                                    "indexValue": "22"
+                                },
+                                {
+                                    "areaId": "133049",
+                                    "indexValue": "6.1"
+                                },
+                                {
+                                    "areaId": "152476",
+                                    "indexValue": "5.5"
+                                },
+                                {
+                                    "areaId": "0",
+                                    "indexValue": "17.1"
+                                }
+                            ]
+                        },
+                        {
+                            "productName": "宽带新增",
+                            "class1Name": "奋斗",
+                            "class2Name": "实体",
+                            "dataList": [
+                                {
+                                    "areaId": "111",
+                                    "indexValue": "39.6"
+                                },
+                                {
+                                    "areaId": "434",
+                                    "indexValue": "23.2"
+                                },
+                                {
+                                    "areaId": "112",
+                                    "indexValue": "22.8"
+                                },
+                                {
+                                    "areaId": "447",
+                                    "indexValue": "11.3"
+                                },
+                                {
+                                    "areaId": "448",
+                                    "indexValue": "6.7"
+                                },
+                                {
+                                    "areaId": "449",
+                                    "indexValue": "10.1"
+                                },
+                                {
+                                    "areaId": "450",
+                                    "indexValue": "15.2"
+                                },
+                                {
+                                    "areaId": "60",
+                                    "indexValue": "39.6"
+                                },
+                                {
+                                    "areaId": "613",
+                                    "indexValue": "23.2"
+                                },
+                                {
+                                    "areaId": "639",
+                                    "indexValue": "22.8"
+                                },
+                                {
+                                    "areaId": "640",
+                                    "indexValue": "11.3"
+                                },
+                                {
+                                    "areaId": "647",
+                                    "indexValue": "6.7"
+                                },
+                                {
+                                    "areaId": "761",
+                                    "indexValue": "10.1"
+                                },
+                                {
+                                    "areaId": "13",
+                                    "indexValue": "15.2"
+                                },
+                                {
+                                    "areaId": "133049",
+                                    "indexValue": "4.1"
+                                },
+                                {
+                                    "areaId": "152476",
+                                    "indexValue": "3.9"
+                                },
+                                {
+                                    "areaId": "0",
+                                    "indexValue": "11.8"
+                                }
+                            ]
+                        },
+                        {
+                            "productName": "宽带新增",
+                            "class1Name": "奋斗",
+                            "class2Name": "政企",
+                            "dataList": [
+                                {
+                                    "areaId": "111",
+                                    "indexValue": "14.8"
+                                },
+                                {
+                                    "areaId": "434",
+                                    "indexValue": "8.8"
+                                },
+                                {
+                                    "areaId": "112",
+                                    "indexValue": "8.7"
+                                },
+                                {
+                                    "areaId": "447",
+                                    "indexValue": "4.3"
+                                },
+                                {
+                                    "areaId": "448",
+                                    "indexValue": "2.6"
+                                },
+                                {
+                                    "areaId": "449",
+                                    "indexValue": "3.8"
+                                },
+                                {
+                                    "areaId": "450",
+                                    "indexValue": "5.7"
+                                },
+                                {
+                                    "areaId": "60",
+                                    "indexValue": "14.8"
+                                },
+                                {
+                                    "areaId": "613",
+                                    "indexValue": "8.8"
+                                },
+                                {
+                                    "areaId": "639",
+                                    "indexValue": "8.7"
+                                },
+                                {
+                                    "areaId": "640",
+                                    "indexValue": "4.3"
+                                },
+                                {
+                                    "areaId": "647",
+                                    "indexValue": "2.6"
+                                },
+                                {
+                                    "areaId": "761",
+                                    "indexValue": "3.8"
+                                },
+                                {
+                                    "areaId": "13",
+                                    "indexValue": "5.7"
+                                },
+                                {
+                                    "areaId": "133049",
+                                    "indexValue": "1.6"
+                                },
+                                {
+                                    "areaId": "152476",
+                                    "indexValue": "1.5"
+                                },
+                                {
+                                    "areaId": "0",
+                                    "indexValue": "4.5"
+                                }
+                            ]
+                        },
+                        {
+                            "productName": "宽带新增",
+                            "class1Name": "奋斗",
+                            "class2Name": "电子",
+                            "dataList": [
+                                {
+                                    "areaId": "111",
+                                    "indexValue": "10"
+                                },
+                                {
+                                    "areaId": "434",
+                                    "indexValue": "5.7"
+                                },
+                                {
+                                    "areaId": "112",
+                                    "indexValue": "5.6"
+                                },
+                                {
+                                    "areaId": "447",
+                                    "indexValue": "2.9"
+                                },
+                                {
+                                    "areaId": "448",
+                                    "indexValue": "1.7"
+                                },
+                                {
+                                    "areaId": "449",
+                                    "indexValue": "2.6"
+                                },
+                                {
+                                    "areaId": "450",
+                                    "indexValue": "3.8"
+                                },
+                                {
+                                    "areaId": "60",
+                                    "indexValue": "10"
+                                },
+                                {
+                                    "areaId": "613",
+                                    "indexValue": "5.7"
+                                },
+                                {
+                                    "areaId": "639",
+                                    "indexValue": "5.6"
+                                },
+                                {
+                                    "areaId": "640",
+                                    "indexValue": "2.9"
+                                },
+                                {
+                                    "areaId": "647",
+                                    "indexValue": "1.7"
+                                },
+                                {
+                                    "areaId": "761",
+                                    "indexValue": "2.6"
+                                },
+                                {
+                                    "areaId": "13",
+                                    "indexValue": "3.8"
+                                },
+                                {
+                                    "areaId": "133049",
+                                    "indexValue": "1.1"
+                                },
+                                {
+                                    "areaId": "152476",
+                                    "indexValue": "0.9"
+                                },
+                                {
+                                    "areaId": "0",
+                                    "indexValue": "2.9"
+                                }
+                            ]
+                        },
+                        {
+                            "productName": "宽带新增",
+                            "class1Name": "奋斗",
+                            "class2Name": "合计",
+                            "dataList": [
+                                {
+                                    "areaId": "111",
+                                    "indexValue": "64.4"
+                                },
+                                {
+                                    "areaId": "434",
+                                    "indexValue": "37.7"
+                                },
+                                {
+                                    "areaId": "112",
+                                    "indexValue": "37.1"
+                                },
+                                {
+                                    "areaId": "447",
+                                    "indexValue": "18.5"
+                                },
+                                {
+                                    "areaId": "448",
+                                    "indexValue": "11"
+                                },
+                                {
+                                    "areaId": "449",
+                                    "indexValue": "16.5"
+                                },
+                                {
+                                    "areaId": "450",
+                                    "indexValue": "24.7"
+                                },
+                                {
+                                    "areaId": "60",
+                                    "indexValue": "64.4"
+                                },
+                                {
+                                    "areaId": "613",
+                                    "indexValue": "37.7"
+                                },
+                                {
+                                    "areaId": "639",
+                                    "indexValue": "37.1"
+                                },
+                                {
+                                    "areaId": "640",
+                                    "indexValue": "18.5"
+                                },
+                                {
+                                    "areaId": "647",
+                                    "indexValue": "11"
+                                },
+                                {
+                                    "areaId": "761",
+                                    "indexValue": "16.5"
+                                },
+                                {
+                                    "areaId": "13",
+                                    "indexValue": "24.7"
+                                },
+                                {
+                                    "areaId": "133049",
+                                    "indexValue": "6.8"
+                                },
+                                {
+                                    "areaId": "152476",
+                                    "indexValue": "6.3"
+                                },
+                                {
+                                    "areaId": "0",
+                                    "indexValue": "19.2"
+                                }
+                            ]
+                        },
+                        {
+                            "productName": "5G净增",
+                            "class1Name": "确保",
+                            "class2Name": "实体",
+                            "dataList": [
+                                {
+                                    "areaId": "111",
+                                    "indexValue": "42"
+                                },
+                                {
+                                    "areaId": "434",
+                                    "indexValue": "29.6"
+                                },
+                                {
+                                    "areaId": "112",
+                                    "indexValue": "27.5"
+                                },
+                                {
+                                    "areaId": "447",
+                                    "indexValue": "13.1"
+                                },
+                                {
+                                    "areaId": "448",
+                                    "indexValue": "9.4"
+                                },
+                                {
+                                    "areaId": "449",
+                                    "indexValue": "13.8"
+                                },
+                                {
+                                    "areaId": "450",
+                                    "indexValue": "18.1"
+                                },
+                                {
+                                    "areaId": "60",
+                                    "indexValue": "42"
+                                },
+                                {
+                                    "areaId": "613",
+                                    "indexValue": "29.6"
+                                },
+                                {
+                                    "areaId": "639",
+                                    "indexValue": "27.5"
+                                },
+                                {
+                                    "areaId": "640",
+                                    "indexValue": "13.1"
+                                },
+                                {
+                                    "areaId": "647",
+                                    "indexValue": "9.4"
+                                },
+                                {
+                                    "areaId": "761",
+                                    "indexValue": "13.8"
+                                },
+                                {
+                                    "areaId": "13",
+                                    "indexValue": "18.1"
+                                },
+                                {
+                                    "areaId": "133049",
+                                    "indexValue": "5.6"
+                                },
+                                {
+                                    "areaId": "152476",
+                                    "indexValue": "5.4"
+                                },
+                                {
+                                    "areaId": "0",
+                                    "indexValue": "15.6"
+                                }
+                            ]
+                        },
+                        {
+                            "productName": "5G净增",
+                            "class1Name": "确保",
+                            "class2Name": "政企",
+                            "dataList": [
+                                {
+                                    "areaId": "111",
+                                    "indexValue": "15"
+                                },
+                                {
+                                    "areaId": "434",
+                                    "indexValue": "10.6"
+                                },
+                                {
+                                    "areaId": "112",
+                                    "indexValue": "9.9"
+                                },
+                                {
+                                    "areaId": "447",
+                                    "indexValue": "4.7"
+                                },
+                                {
+                                    "areaId": "448",
+                                    "indexValue": "3.4"
+                                },
+                                {
+                                    "areaId": "449",
+                                    "indexValue": "4.9"
+                                },
+                                {
+                                    "areaId": "450",
+                                    "indexValue": "6.5"
+                                },
+                                {
+                                    "areaId": "60",
+                                    "indexValue": "15"
+                                },
+                                {
+                                    "areaId": "613",
+                                    "indexValue": "10.6"
+                                },
+                                {
+                                    "areaId": "639",
+                                    "indexValue": "9.9"
+                                },
+                                {
+                                    "areaId": "640",
+                                    "indexValue": "4.7"
+                                },
+                                {
+                                    "areaId": "647",
+                                    "indexValue": "3.4"
+                                },
+                                {
+                                    "areaId": "761",
+                                    "indexValue": "4.9"
+                                },
+                                {
+                                    "areaId": "13",
+                                    "indexValue": "6.5"
+                                },
+                                {
+                                    "areaId": "133049",
+                                    "indexValue": "2"
+                                },
+                                {
+                                    "areaId": "152476",
+                                    "indexValue": "2"
+                                },
+                                {
+                                    "areaId": "0",
+                                    "indexValue": "5.6"
+                                }
+                            ]
+                        },
+                        {
+                            "productName": "5G净增",
+                            "class1Name": "确保",
+                            "class2Name": "电子",
+                            "dataList": [
+                                {
+                                    "areaId": "111",
+                                    "indexValue": "10"
+                                },
+                                {
+                                    "areaId": "434",
+                                    "indexValue": "6.8"
+                                },
+                                {
+                                    "areaId": "112",
+                                    "indexValue": "6.6"
+                                },
+                                {
+                                    "areaId": "447",
+                                    "indexValue": "3.2"
+                                },
+                                {
+                                    "areaId": "448",
+                                    "indexValue": "2.2"
+                                },
+                                {
+                                    "areaId": "449",
+                                    "indexValue": "3.3"
+                                },
+                                {
+                                    "areaId": "450",
+                                    "indexValue": "4.4"
+                                },
+                                {
+                                    "areaId": "60",
+                                    "indexValue": "10"
+                                },
+                                {
+                                    "areaId": "613",
+                                    "indexValue": "6.8"
+                                },
+                                {
+                                    "areaId": "639",
+                                    "indexValue": "6.6"
+                                },
+                                {
+                                    "areaId": "640",
+                                    "indexValue": "3.2"
+                                },
+                                {
+                                    "areaId": "647",
+                                    "indexValue": "2.2"
+                                },
+                                {
+                                    "areaId": "761",
+                                    "indexValue": "3.3"
+                                },
+                                {
+                                    "areaId": "13",
+                                    "indexValue": "4.4"
+                                },
+                                {
+                                    "areaId": "133049",
+                                    "indexValue": "1.4"
+                                },
+                                {
+                                    "areaId": "152476",
+                                    "indexValue": "1.3"
+                                },
+                                {
+                                    "areaId": "0",
+                                    "indexValue": "3.8"
+                                }
+                            ]
+                        },
+                        {
+                            "productName": "5G净增",
+                            "class1Name": "确保",
+                            "class2Name": "合计",
+                            "dataList": [
+                                {
+                                    "areaId": "111",
+                                    "indexValue": "67"
+                                },
+                                {
+                                    "areaId": "434",
+                                    "indexValue": "47"
+                                },
+                                {
+                                    "areaId": "112",
+                                    "indexValue": "44"
+                                },
+                                {
+                                    "areaId": "447",
+                                    "indexValue": "21"
+                                },
+                                {
+                                    "areaId": "448",
+                                    "indexValue": "15"
+                                },
+                                {
+                                    "areaId": "449",
+                                    "indexValue": "22"
+                                },
+                                {
+                                    "areaId": "450",
+                                    "indexValue": "29"
+                                },
+                                {
+                                    "areaId": "60",
+                                    "indexValue": "67"
+                                },
+                                {
+                                    "areaId": "613",
+                                    "indexValue": "47"
+                                },
+                                {
+                                    "areaId": "639",
+                                    "indexValue": "44"
+                                },
+                                {
+                                    "areaId": "640",
+                                    "indexValue": "21"
+                                },
+                                {
+                                    "areaId": "647",
+                                    "indexValue": "15"
+                                },
+                                {
+                                    "areaId": "761",
+                                    "indexValue": "22"
+                                },
+                                {
+                                    "areaId": "13",
+                                    "indexValue": "29"
+                                },
+                                {
+                                    "areaId": "133049",
+                                    "indexValue": "9"
+                                },
+                                {
+                                    "areaId": "152476",
+                                    "indexValue": "8.7"
+                                },
+                                {
+                                    "areaId": "0",
+                                    "indexValue": "25"
+                                }
+                            ]
+                        },
+                        {
+                            "productName": "5G净增",
+                            "class1Name": "奋斗",
+                            "class2Name": "实体",
+                            "dataList": [
+                                {
+                                    "areaId": "647",
+                                    "indexValue": "11.3"
+                                },
+                                {
+                                    "areaId": "761",
+                                    "indexValue": "16.3"
+                                },
+                                {
+                                    "areaId": "13",
+                                    "indexValue": "21.8"
+                                },
+                                {
+                                    "areaId": "133049",
+                                    "indexValue": "6.8"
+                                },
+                                {
+                                    "areaId": "152476",
+                                    "indexValue": "6.5"
+                                },
+                                {
+                                    "areaId": "0",
+                                    "indexValue": "18.7"
+                                },
+                                {
+                                    "areaId": "111",
+                                    "indexValue": "50"
+                                },
+                                {
+                                    "areaId": "434",
+                                    "indexValue": "35.3"
+                                },
+                                {
+                                    "areaId": "112",
+                                    "indexValue": "33.1"
+                                },
+                                {
+                                    "areaId": "447",
+                                    "indexValue": "15.6"
+                                },
+                                {
+                                    "areaId": "448",
+                                    "indexValue": "11.3"
+                                },
+                                {
+                                    "areaId": "449",
+                                    "indexValue": "16.3"
+                                },
+                                {
+                                    "areaId": "450",
+                                    "indexValue": "21.8"
+                                },
+                                {
+                                    "areaId": "60",
+                                    "indexValue": "50"
+                                },
+                                {
+                                    "areaId": "613",
+                                    "indexValue": "35.3"
+                                },
+                                {
+                                    "areaId": "639",
+                                    "indexValue": "33.1"
+                                },
+                                {
+                                    "areaId": "640",
+                                    "indexValue": "15.6"
+                                }
+                            ]
+                        },
+                        {
+                            "productName": "5G净增",
+                            "class1Name": "奋斗",
+                            "class2Name": "政企",
+                            "dataList": [
+                                {
+                                    "areaId": "111",
+                                    "indexValue": "18"
+                                },
+                                {
+                                    "areaId": "434",
+                                    "indexValue": "12.6"
+                                },
+                                {
+                                    "areaId": "112",
+                                    "indexValue": "11.9"
+                                },
+                                {
+                                    "areaId": "447",
+                                    "indexValue": "5.6"
+                                },
+                                {
+                                    "areaId": "448",
+                                    "indexValue": "4.1"
+                                },
+                                {
+                                    "areaId": "449",
+                                    "indexValue": "5.8"
+                                },
+                                {
+                                    "areaId": "450",
+                                    "indexValue": "7.8"
+                                },
+                                {
+                                    "areaId": "60",
+                                    "indexValue": "18"
+                                },
+                                {
+                                    "areaId": "613",
+                                    "indexValue": "12.6"
+                                },
+                                {
+                                    "areaId": "639",
+                                    "indexValue": "11.9"
+                                },
+                                {
+                                    "areaId": "640",
+                                    "indexValue": "5.6"
+                                },
+                                {
+                                    "areaId": "647",
+                                    "indexValue": "4.1"
+                                },
+                                {
+                                    "areaId": "761",
+                                    "indexValue": "5.8"
+                                },
+                                {
+                                    "areaId": "13",
+                                    "indexValue": "7.8"
+                                },
+                                {
+                                    "areaId": "133049",
+                                    "indexValue": "2.4"
+                                },
+                                {
+                                    "areaId": "152476",
+                                    "indexValue": "2.4"
+                                },
+                                {
+                                    "areaId": "0",
+                                    "indexValue": "6.7"
+                                }
+                            ]
+                        },
+                        {
+                            "productName": "5G净增",
+                            "class1Name": "奋斗",
+                            "class2Name": "电子",
+                            "dataList": [
+                                {
+                                    "areaId": "111",
+                                    "indexValue": "12"
+                                },
+                                {
+                                    "areaId": "434",
+                                    "indexValue": "8.1"
+                                },
+                                {
+                                    "areaId": "112",
+                                    "indexValue": "8"
+                                },
+                                {
+                                    "areaId": "447",
+                                    "indexValue": "3.8"
+                                },
+                                {
+                                    "areaId": "448",
+                                    "indexValue": "2.6"
+                                },
+                                {
+                                    "areaId": "449",
+                                    "indexValue": "3.9"
+                                },
+                                {
+                                    "areaId": "450",
+                                    "indexValue": "5.4"
+                                },
+                                {
+                                    "areaId": "60",
+                                    "indexValue": "12"
+                                },
+                                {
+                                    "areaId": "613",
+                                    "indexValue": "8.1"
+                                },
+                                {
+                                    "areaId": "639",
+                                    "indexValue": "8"
+                                },
+                                {
+                                    "areaId": "640",
+                                    "indexValue": "3.8"
+                                },
+                                {
+                                    "areaId": "647",
+                                    "indexValue": "2.6"
+                                },
+                                {
+                                    "areaId": "761",
+                                    "indexValue": "3.9"
+                                },
+                                {
+                                    "areaId": "13",
+                                    "indexValue": "5.4"
+                                },
+                                {
+                                    "areaId": "133049",
+                                    "indexValue": "1.8"
+                                },
+                                {
+                                    "areaId": "152476",
+                                    "indexValue": "1.6"
+                                },
+                                {
+                                    "areaId": "0",
+                                    "indexValue": "4.6"
+                                }
+                            ]
+                        },
+                        {
+                            "productName": "5G净增",
+                            "class1Name": "奋斗",
+                            "class2Name": "合计",
+                            "dataList": [
+                                {
+                                    "areaId": "111",
+                                    "indexValue": "80"
+                                },
+                                {
+                                    "areaId": "434",
+                                    "indexValue": "56"
+                                },
+                                {
+                                    "areaId": "112",
+                                    "indexValue": "53"
+                                },
+                                {
+                                    "areaId": "447",
+                                    "indexValue": "25"
+                                },
+                                {
+                                    "areaId": "448",
+                                    "indexValue": "18"
+                                },
+                                {
+                                    "areaId": "449",
+                                    "indexValue": "26"
+                                },
+                                {
+                                    "areaId": "450",
+                                    "indexValue": "35"
+                                },
+                                {
+                                    "areaId": "60",
+                                    "indexValue": "80"
+                                },
+                                {
+                                    "areaId": "613",
+                                    "indexValue": "56"
+                                },
+                                {
+                                    "areaId": "639",
+                                    "indexValue": "53"
+                                },
+                                {
+                                    "areaId": "640",
+                                    "indexValue": "25"
+                                },
+                                {
+                                    "areaId": "647",
+                                    "indexValue": "18"
+                                },
+                                {
+                                    "areaId": "761",
+                                    "indexValue": "26"
+                                },
+                                {
+                                    "areaId": "13",
+                                    "indexValue": "35"
+                                },
+                                {
+                                    "areaId": "133049",
+                                    "indexValue": "11"
+                                },
+                                {
+                                    "areaId": "152476",
+                                    "indexValue": "10.5"
+                                },
+                                {
+                                    "areaId": "0",
+                                    "indexValue": "30"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}}

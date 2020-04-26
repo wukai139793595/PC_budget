@@ -1,0 +1,1160 @@
+{
+    "code": 0,
+    "message": "成功",
+    "content": {
+        "code": 0,
+        "message": "成功",
+        "content": {
+            "areaNames": [
+                "杭州",
+                "宁波",
+                "温州",
+                "嘉兴",
+                "湖州",
+                "绍兴",
+                "金华",
+                "衢州",
+                "丽水",
+                "台州",
+                "舟山",
+                "合计"
+            ],
+            "dataList": [
+                {
+                    "class1": "融合",
+                    "indexName": "2019年",
+                    "dataList": [
+                        {
+                            "areaId": "2",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "3",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "4",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "5",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "9",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "32518",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "7",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "12",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "10",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "8",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "11",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "1",
+                            "indexValue": "0"
+                        }
+                    ]
+                },
+                {
+                    "class1": "融合",
+                    "indexName": "2020年",
+                    "dataList": [
+                        {
+                            "areaId": "2",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "3",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "4",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "5",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "9",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "32518",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "7",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "12",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "10",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "8",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "11",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "1",
+                            "indexValue": "0"
+                        }
+                    ]
+                },
+                {
+                    "class1": "融合",
+                    "indexName": "增幅",
+                    "dataList": [
+                        {
+                            "areaId": "2",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "3",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "4",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "5",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "9",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "32518",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "7",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "12",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "10",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "8",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "11",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "1",
+                            "indexValue": "0"
+                        }
+                    ]
+                },
+                {
+                    "class1": "单C",
+                    "indexName": "2019年",
+                    "dataList": [
+                        {
+                            "areaId": "2",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "3",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "4",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "5",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "9",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "32518",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "7",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "12",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "10",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "8",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "11",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "1",
+                            "indexValue": "0"
+                        }
+                    ]
+                },
+                {
+                    "class1": "单C",
+                    "indexName": "2020年",
+                    "dataList": [
+                        {
+                            "areaId": "2",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "3",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "4",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "5",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "9",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "32518",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "7",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "12",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "10",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "8",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "11",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "1",
+                            "indexValue": "0"
+                        }
+                    ]
+                },
+                {
+                    "class1": "单C",
+                    "indexName": "增幅",
+                    "dataList": [
+                        {
+                            "areaId": "2",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "3",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "4",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "5",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "9",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "32518",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "7",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "12",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "10",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "8",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "11",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "1",
+                            "indexValue": "0"
+                        }
+                    ]
+                },
+                {
+                    "class1": "单宽(普通宽带）",
+                    "indexName": "2019年",
+                    "dataList": [
+                        {
+                            "areaId": "2",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "3",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "4",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "5",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "9",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "32518",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "7",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "12",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "10",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "8",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "11",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "1",
+                            "indexValue": "0"
+                        }
+                    ]
+                },
+                {
+                    "class1": "单宽(普通宽带）",
+                    "indexName": "2020年",
+                    "dataList": [
+                        {
+                            "areaId": "2",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "3",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "4",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "5",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "9",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "32518",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "7",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "12",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "10",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "8",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "11",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "1",
+                            "indexValue": "0"
+                        }
+                    ]
+                },
+                {
+                    "class1": "单宽(普通宽带）",
+                    "indexName": "增幅",
+                    "dataList": [
+                        {
+                            "areaId": "2",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "3",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "4",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "5",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "9",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "32518",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "7",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "12",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "10",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "8",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "11",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "1",
+                            "indexValue": "0"
+                        }
+                    ]
+                },
+                {
+                    "class1": "单宽(互联网专线）",
+                    "indexName": "2019年",
+                    "dataList": [
+                        {
+                            "areaId": "2",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "3",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "4",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "5",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "9",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "32518",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "7",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "12",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "10",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "8",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "11",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "1",
+                            "indexValue": "0"
+                        }
+                    ]
+                },
+                {
+                    "class1": "单宽(互联网专线）",
+                    "indexName": "2020年",
+                    "dataList": [
+                        {
+                            "areaId": "2",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "3",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "4",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "5",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "9",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "32518",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "7",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "12",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "10",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "8",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "11",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "1",
+                            "indexValue": "0"
+                        }
+                    ]
+                },
+                {
+                    "class1": "单宽(互联网专线）",
+                    "indexName": "增幅",
+                    "dataList": [
+                        {
+                            "areaId": "2",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "3",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "4",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "5",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "9",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "32518",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "7",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "12",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "10",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "8",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "11",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "1",
+                            "indexValue": "0"
+                        }
+                    ]
+                },
+                {
+                    "class1": "单ITV",
+                    "indexName": "2019年",
+                    "dataList": [
+                        {
+                            "areaId": "2",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "3",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "4",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "5",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "9",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "32518",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "7",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "12",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "10",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "8",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "11",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "1",
+                            "indexValue": "0"
+                        }
+                    ]
+                },
+                {
+                    "class1": "单ITV",
+                    "indexName": "2020年",
+                    "dataList": [
+                        {
+                            "areaId": "2",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "3",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "4",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "5",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "9",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "32518",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "7",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "12",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "10",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "8",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "11",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "1",
+                            "indexValue": "0"
+                        }
+                    ]
+                },
+                {
+                    "class1": "单ITV",
+                    "indexName": "增幅",
+                    "dataList": [
+                        {
+                            "areaId": "2",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "3",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "4",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "5",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "9",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "32518",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "7",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "12",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "10",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "8",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "11",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "1",
+                            "indexValue": "0"
+                        }
+                    ]
+                },
+                {
+                    "class1": "单固话",
+                    "indexName": "2019年",
+                    "dataList": [
+                        {
+                            "areaId": "2",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "3",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "4",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "5",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "9",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "32518",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "7",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "12",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "10",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "8",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "11",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "1",
+                            "indexValue": "0"
+                        }
+                    ]
+                },
+                {
+                    "class1": "单固话",
+                    "indexName": "2020年",
+                    "dataList": [
+                        {
+                            "areaId": "2",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "3",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "4",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "5",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "9",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "32518",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "7",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "12",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "10",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "8",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "11",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "1",
+                            "indexValue": "0"
+                        }
+                    ]
+                },
+                {
+                    "class1": "单固话",
+                    "indexName": "增幅",
+                    "dataList": [
+                        {
+                            "areaId": "2",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "3",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "4",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "5",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "9",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "32518",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "7",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "12",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "10",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "8",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "11",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "1",
+                            "indexValue": "0"
+                        }
+                    ]
+                },
+                {
+                    "class1": "合计",
+                    "indexName": "2019年",
+                    "dataList": [
+                        {
+                            "areaId": "2",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "3",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "4",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "5",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "9",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "32518",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "7",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "12",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "10",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "8",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "11",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "1",
+                            "indexValue": "0"
+                        }
+                    ]
+                },
+                {
+                    "class1": "合计",
+                    "indexName": "2020年",
+                    "dataList": [
+                        {
+                            "areaId": "2",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "3",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "4",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "5",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "9",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "32518",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "7",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "12",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "10",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "8",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "11",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "1",
+                            "indexValue": "0"
+                        }
+                    ]
+                },
+                {
+                    "class1": "合计",
+                    "indexName": "增幅",
+                    "dataList": [
+                        {
+                            "areaId": "2",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "3",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "4",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "5",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "9",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "32518",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "7",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "12",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "10",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "8",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "11",
+                            "indexValue": "0"
+                        },
+                        {
+                            "areaId": "1",
+                            "indexValue": "0"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}}

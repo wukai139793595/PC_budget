@@ -1,0 +1,4397 @@
+{
+    "code": 0,
+    "message": "成功",
+    "content": {
+        "code": 0,
+        "message": "成功",
+        "content": {
+            "areaNames": [
+                "市本级",
+                "上城",
+                "下城",
+                "西湖",
+                "滨江",
+                "下沙",
+                "拱墅",
+                "江干",
+                "富阳",
+                "萧山",
+                "桐庐",
+                "淳安",
+                "建德",
+                "临安",
+                "余杭",
+                "市政企",
+                "省政企",
+                "全市"
+            ],
+            "areaIds": [
+                "132686",
+                "111",
+                "434",
+                "112",
+                "447",
+                "448",
+                "449",
+                "450",
+                "60",
+                "613",
+                "639",
+                "640",
+                "647",
+                "761",
+                "13",
+                "133049",
+                "152476",
+                "0"
+            ],
+            "data": [
+                {
+                    "productName": "四大主量收入",
+                    "class1Name": "全年",
+                    "class2Name": null,
+                    "dataList": [
+                        {
+                            "areaId": "132686",
+                            "indexValue": "144651.212279293"
+                        },
+                        {
+                            "areaId": "111",
+                            "indexValue": "25856.99431739"
+                        },
+                        {
+                            "areaId": "434",
+                            "indexValue": "28118.0792604012"
+                        },
+                        {
+                            "areaId": "112",
+                            "indexValue": "11800.0157427041"
+                        },
+                        {
+                            "areaId": "447",
+                            "indexValue": "7845.48431218152"
+                        },
+                        {
+                            "areaId": "448",
+                            "indexValue": "7600.15068767214"
+                        },
+                        {
+                            "areaId": "449",
+                            "indexValue": "23000.26360212"
+                        },
+                        {
+                            "areaId": "450",
+                            "indexValue": "1600.48051483592"
+                        },
+                        {
+                            "areaId": "60",
+                            "indexValue": "1376.69117215871"
+                        },
+                        {
+                            "areaId": "613",
+                            "indexValue": "7379.28497744382"
+                        },
+                        {
+                            "areaId": "639",
+                            "indexValue": "771.294205585164"
+                        },
+                        {
+                            "areaId": "640",
+                            "indexValue": "1376.69117215871"
+                        },
+                        {
+                            "areaId": "647",
+                            "indexValue": "7379.28497744382"
+                        },
+                        {
+                            "areaId": "761",
+                            "indexValue": "771.294205585164"
+                        },
+                        {
+                            "areaId": "13",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "133049",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "152476",
+                            "indexValue": "771.294205585164"
+                        },
+                        {
+                            "areaId": "0",
+                            "indexValue": "116725.429964651"
+                        }
+                    ]
+                },
+                {
+                    "productName": "四大主量收入",
+                    "class1Name": "其中：一季度",
+                    "class2Name": null,
+                    "dataList": [
+                        {
+                            "areaId": "132686",
+                            "indexValue": "33881.7647223421"
+                        },
+                        {
+                            "areaId": "111",
+                            "indexValue": "6056.50366895789"
+                        },
+                        {
+                            "areaId": "434",
+                            "indexValue": "6586.1193344555"
+                        },
+                        {
+                            "areaId": "112",
+                            "indexValue": "2763.92676434877"
+                        },
+                        {
+                            "areaId": "447",
+                            "indexValue": "1837.65382543021"
+                        },
+                        {
+                            "areaId": "448",
+                            "indexValue": "1780.18914184321"
+                        },
+                        {
+                            "areaId": "449",
+                            "indexValue": "5387.36943603503"
+                        },
+                        {
+                            "areaId": "450",
+                            "indexValue": "374.881782128875"
+                        },
+                        {
+                            "areaId": "60",
+                            "indexValue": "322.463432247945"
+                        },
+                        {
+                            "areaId": "613",
+                            "indexValue": "1728.45559663972"
+                        },
+                        {
+                            "areaId": "639",
+                            "indexValue": "180.660835077448"
+                        },
+                        {
+                            "areaId": "640",
+                            "indexValue": "322.463432247945"
+                        },
+                        {
+                            "areaId": "647",
+                            "indexValue": "1728.45559663972"
+                        },
+                        {
+                            "areaId": "761",
+                            "indexValue": "180.660835077448"
+                        },
+                        {
+                            "areaId": "13",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "133049",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "152476",
+                            "indexValue": "180.660835077448"
+                        },
+                        {
+                            "areaId": "0",
+                            "indexValue": "29430.4645162072"
+                        }
+                    ]
+                },
+                {
+                    "productName": "四大主量收入",
+                    "class1Name": "二季度",
+                    "class2Name": null,
+                    "dataList": [
+                        {
+                            "areaId": "132686",
+                            "indexValue": "35383.911926781"
+                        },
+                        {
+                            "areaId": "111",
+                            "indexValue": "6325.01860994617"
+                        },
+                        {
+                            "areaId": "434",
+                            "indexValue": "6878.1147729289"
+                        },
+                        {
+                            "areaId": "112",
+                            "indexValue": "2886.46538936916"
+                        },
+                        {
+                            "areaId": "447",
+                            "indexValue": "1919.12616251825"
+                        },
+                        {
+                            "areaId": "448",
+                            "indexValue": "1859.1137835998"
+                        },
+                        {
+                            "areaId": "449",
+                            "indexValue": "5626.21832728782"
+                        },
+                        {
+                            "areaId": "450",
+                            "indexValue": "391.502156706017"
+                        },
+                        {
+                            "areaId": "60",
+                            "indexValue": "336.759840574208"
+                        },
+                        {
+                            "areaId": "613",
+                            "indexValue": "1805.08663294395"
+                        },
+                        {
+                            "areaId": "639",
+                            "indexValue": "188.670428750832"
+                        },
+                        {
+                            "areaId": "640",
+                            "indexValue": "336.759840574208"
+                        },
+                        {
+                            "areaId": "647",
+                            "indexValue": "1805.08663294395"
+                        },
+                        {
+                            "areaId": "761",
+                            "indexValue": "188.670428750832"
+                        },
+                        {
+                            "areaId": "13",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "133049",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "152476",
+                            "indexValue": "188.670428750832"
+                        },
+                        {
+                            "areaId": "0",
+                            "indexValue": "30735.2634356449"
+                        }
+                    ]
+                },
+                {
+                    "productName": "四大主量收入",
+                    "class1Name": "三季度",
+                    "class2Name": null,
+                    "dataList": [
+                        {
+                            "areaId": "132686",
+                            "indexValue": "36913.8766720427"
+                        },
+                        {
+                            "areaId": "111",
+                            "indexValue": "6598.50604984164"
+                        },
+                        {
+                            "areaId": "434",
+                            "indexValue": "7175.51753433699"
+                        },
+                        {
+                            "areaId": "112",
+                            "indexValue": "3011.27324818622"
+                        },
+                        {
+                            "areaId": "447",
+                            "indexValue": "2002.1072465894"
+                        },
+                        {
+                            "areaId": "448",
+                            "indexValue": "1939.49999279633"
+                        },
+                        {
+                            "areaId": "449",
+                            "indexValue": "5869.49034615639"
+                        },
+                        {
+                            "areaId": "450",
+                            "indexValue": "408.430315997551"
+                        },
+                        {
+                            "areaId": "60",
+                            "indexValue": "351.32099720281"
+                        },
+                        {
+                            "areaId": "613",
+                            "indexValue": "1883.13676251307"
+                        },
+                        {
+                            "areaId": "639",
+                            "indexValue": "196.828348232983"
+                        },
+                        {
+                            "areaId": "640",
+                            "indexValue": "351.32099720281"
+                        },
+                        {
+                            "areaId": "647",
+                            "indexValue": "1883.13676251307"
+                        },
+                        {
+                            "areaId": "761",
+                            "indexValue": "196.828348232983"
+                        },
+                        {
+                            "areaId": "13",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "133049",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "152476",
+                            "indexValue": "196.828348232983"
+                        },
+                        {
+                            "areaId": "0",
+                            "indexValue": "32064.2252980352"
+                        }
+                    ]
+                },
+                {
+                    "productName": "四大主量收入",
+                    "class1Name": "四季度",
+                    "class2Name": null,
+                    "dataList": [
+                        {
+                            "areaId": "132686",
+                            "indexValue": "38471.6589581272"
+                        },
+                        {
+                            "areaId": "111",
+                            "indexValue": "6876.9659886443"
+                        },
+                        {
+                            "areaId": "434",
+                            "indexValue": "7478.32761867982"
+                        },
+                        {
+                            "areaId": "112",
+                            "indexValue": "3138.35034079995"
+                        },
+                        {
+                            "areaId": "447",
+                            "indexValue": "2086.59707764366"
+                        },
+                        {
+                            "areaId": "448",
+                            "indexValue": "2021.3477694328"
+                        },
+                        {
+                            "areaId": "449",
+                            "indexValue": "6117.18549264076"
+                        },
+                        {
+                            "areaId": "450",
+                            "indexValue": "425.666260003477"
+                        },
+                        {
+                            "areaId": "60",
+                            "indexValue": "366.146902133748"
+                        },
+                        {
+                            "areaId": "613",
+                            "indexValue": "1962.60598534708"
+                        },
+                        {
+                            "areaId": "639",
+                            "indexValue": "205.134593523901"
+                        },
+                        {
+                            "areaId": "640",
+                            "indexValue": "366.146902133748"
+                        },
+                        {
+                            "areaId": "647",
+                            "indexValue": "1962.60598534708"
+                        },
+                        {
+                            "areaId": "761",
+                            "indexValue": "205.134593523901"
+                        },
+                        {
+                            "areaId": "13",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "133049",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "152476",
+                            "indexValue": "205.134593523901"
+                        },
+                        {
+                            "areaId": "0",
+                            "indexValue": "33417.3501033781"
+                        }
+                    ]
+                },
+                {
+                    "productName": "其中：码号收入",
+                    "class1Name": "全年",
+                    "class2Name": null,
+                    "dataList": [
+                        {
+                            "areaId": "132686",
+                            "indexValue": "53523.9067380001"
+                        },
+                        {
+                            "areaId": "111",
+                            "indexValue": "41592.5402279849"
+                        },
+                        {
+                            "areaId": "434",
+                            "indexValue": "43921.5514760505"
+                        },
+                        {
+                            "areaId": "112",
+                            "indexValue": "12327.6762055978"
+                        },
+                        {
+                            "areaId": "447",
+                            "indexValue": "11655.8423450751"
+                        },
+                        {
+                            "areaId": "448",
+                            "indexValue": "29372.8156878795"
+                        },
+                        {
+                            "areaId": "449",
+                            "indexValue": "18478.23132"
+                        },
+                        {
+                            "areaId": "450",
+                            "indexValue": "9807.499942"
+                        },
+                        {
+                            "areaId": "60",
+                            "indexValue": "9962.93692053"
+                        },
+                        {
+                            "areaId": "613",
+                            "indexValue": "18338.8262933897"
+                        },
+                        {
+                            "areaId": "639",
+                            "indexValue": "6046.9488991"
+                        },
+                        {
+                            "areaId": "640",
+                            "indexValue": "46750.195694"
+                        },
+                        {
+                            "areaId": "647",
+                            "indexValue": "2612.749957"
+                        },
+                        {
+                            "areaId": "761",
+                            "indexValue": "12545.13178545"
+                        },
+                        {
+                            "areaId": "13",
+                            "indexValue": "745"
+                        },
+                        {
+                            "areaId": "133049",
+                            "indexValue": "60"
+                        },
+                        {
+                            "areaId": "152476",
+                            "indexValue": "6046.9488991"
+                        },
+                        {
+                            "areaId": "0",
+                            "indexValue": "270264.895653157"
+                        }
+                    ]
+                },
+                {
+                    "productName": "其中：码号收入",
+                    "class1Name": "其中：一季度",
+                    "class2Name": null,
+                    "dataList": [
+                        {
+                            "areaId": "132686",
+                            "indexValue": "144652.212279293"
+                        },
+                        {
+                            "areaId": "111",
+                            "indexValue": "25857.99431739"
+                        },
+                        {
+                            "areaId": "434",
+                            "indexValue": "28119.0792604012"
+                        },
+                        {
+                            "areaId": "112",
+                            "indexValue": "11801.0157427041"
+                        },
+                        {
+                            "areaId": "447",
+                            "indexValue": "7846.48431218152"
+                        },
+                        {
+                            "areaId": "448",
+                            "indexValue": "7601.15068767214"
+                        },
+                        {
+                            "areaId": "449",
+                            "indexValue": "23001.26360212"
+                        },
+                        {
+                            "areaId": "450",
+                            "indexValue": "1601.48051483592"
+                        },
+                        {
+                            "areaId": "60",
+                            "indexValue": "1377.69117215871"
+                        },
+                        {
+                            "areaId": "613",
+                            "indexValue": "7380.28497744382"
+                        },
+                        {
+                            "areaId": "639",
+                            "indexValue": "772.294205585164"
+                        },
+                        {
+                            "areaId": "640",
+                            "indexValue": "1377.69117215871"
+                        },
+                        {
+                            "areaId": "647",
+                            "indexValue": "7380.28497744382"
+                        },
+                        {
+                            "areaId": "761",
+                            "indexValue": "772.294205585164"
+                        },
+                        {
+                            "areaId": "13",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "133049",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "152476",
+                            "indexValue": "772.294205585164"
+                        },
+                        {
+                            "areaId": "0",
+                            "indexValue": "116736.429964651"
+                        }
+                    ]
+                },
+                {
+                    "productName": "其中：码号收入",
+                    "class1Name": "二季度",
+                    "class2Name": null,
+                    "dataList": [
+                        {
+                            "areaId": "132686",
+                            "indexValue": "33881.7647223421"
+                        },
+                        {
+                            "areaId": "111",
+                            "indexValue": "6056.50366895789"
+                        },
+                        {
+                            "areaId": "434",
+                            "indexValue": "6586.1193344555"
+                        },
+                        {
+                            "areaId": "112",
+                            "indexValue": "2763.92676434877"
+                        },
+                        {
+                            "areaId": "447",
+                            "indexValue": "1837.65382543021"
+                        },
+                        {
+                            "areaId": "448",
+                            "indexValue": "1780.18914184321"
+                        },
+                        {
+                            "areaId": "449",
+                            "indexValue": "5387.36943603503"
+                        },
+                        {
+                            "areaId": "450",
+                            "indexValue": "374.881782128875"
+                        },
+                        {
+                            "areaId": "60",
+                            "indexValue": "322.463432247945"
+                        },
+                        {
+                            "areaId": "613",
+                            "indexValue": "1728.45559663972"
+                        },
+                        {
+                            "areaId": "639",
+                            "indexValue": "180.660835077448"
+                        },
+                        {
+                            "areaId": "640",
+                            "indexValue": "322.463432247945"
+                        },
+                        {
+                            "areaId": "647",
+                            "indexValue": "1728.45559663972"
+                        },
+                        {
+                            "areaId": "761",
+                            "indexValue": "180.660835077448"
+                        },
+                        {
+                            "areaId": "13",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "133049",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "152476",
+                            "indexValue": "180.660835077448"
+                        },
+                        {
+                            "areaId": "0",
+                            "indexValue": "29430.4645162072"
+                        }
+                    ]
+                },
+                {
+                    "productName": "其中：码号收入",
+                    "class1Name": "三季度",
+                    "class2Name": null,
+                    "dataList": [
+                        {
+                            "areaId": "132686",
+                            "indexValue": "35383.911926781"
+                        },
+                        {
+                            "areaId": "111",
+                            "indexValue": "6325.01860994617"
+                        },
+                        {
+                            "areaId": "434",
+                            "indexValue": "6878.1147729289"
+                        },
+                        {
+                            "areaId": "112",
+                            "indexValue": "2886.46538936916"
+                        },
+                        {
+                            "areaId": "447",
+                            "indexValue": "1919.12616251825"
+                        },
+                        {
+                            "areaId": "448",
+                            "indexValue": "1859.1137835998"
+                        },
+                        {
+                            "areaId": "449",
+                            "indexValue": "5626.21832728782"
+                        },
+                        {
+                            "areaId": "450",
+                            "indexValue": "391.502156706017"
+                        },
+                        {
+                            "areaId": "60",
+                            "indexValue": "336.759840574208"
+                        },
+                        {
+                            "areaId": "613",
+                            "indexValue": "1805.08663294395"
+                        },
+                        {
+                            "areaId": "639",
+                            "indexValue": "188.670428750832"
+                        },
+                        {
+                            "areaId": "640",
+                            "indexValue": "336.759840574208"
+                        },
+                        {
+                            "areaId": "647",
+                            "indexValue": "1805.08663294395"
+                        },
+                        {
+                            "areaId": "761",
+                            "indexValue": "188.670428750832"
+                        },
+                        {
+                            "areaId": "13",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "133049",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "152476",
+                            "indexValue": "188.670428750832"
+                        },
+                        {
+                            "areaId": "0",
+                            "indexValue": "30735.2634356449"
+                        }
+                    ]
+                },
+                {
+                    "productName": "其中：码号收入",
+                    "class1Name": "四季度",
+                    "class2Name": null,
+                    "dataList": [
+                        {
+                            "areaId": "132686",
+                            "indexValue": "36913.8766720427"
+                        },
+                        {
+                            "areaId": "111",
+                            "indexValue": "6598.50604984164"
+                        },
+                        {
+                            "areaId": "434",
+                            "indexValue": "7175.51753433699"
+                        },
+                        {
+                            "areaId": "112",
+                            "indexValue": "3011.27324818622"
+                        },
+                        {
+                            "areaId": "447",
+                            "indexValue": "2002.1072465894"
+                        },
+                        {
+                            "areaId": "448",
+                            "indexValue": "1939.49999279633"
+                        },
+                        {
+                            "areaId": "449",
+                            "indexValue": "5869.49034615639"
+                        },
+                        {
+                            "areaId": "450",
+                            "indexValue": "408.430315997551"
+                        },
+                        {
+                            "areaId": "60",
+                            "indexValue": "351.32099720281"
+                        },
+                        {
+                            "areaId": "613",
+                            "indexValue": "1883.13676251307"
+                        },
+                        {
+                            "areaId": "639",
+                            "indexValue": "196.828348232983"
+                        },
+                        {
+                            "areaId": "640",
+                            "indexValue": "351.32099720281"
+                        },
+                        {
+                            "areaId": "647",
+                            "indexValue": "1883.13676251307"
+                        },
+                        {
+                            "areaId": "761",
+                            "indexValue": "196.828348232983"
+                        },
+                        {
+                            "areaId": "13",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "133049",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "152476",
+                            "indexValue": "196.828348232983"
+                        },
+                        {
+                            "areaId": "0",
+                            "indexValue": "32064.2252980352"
+                        }
+                    ]
+                },
+                {
+                    "productName": "其中：智慧家庭",
+                    "class1Name": "全年",
+                    "class2Name": null,
+                    "dataList": [
+                        {
+                            "areaId": "132686",
+                            "indexValue": "38472.6589581272"
+                        },
+                        {
+                            "areaId": "111",
+                            "indexValue": "6877.9659886443"
+                        },
+                        {
+                            "areaId": "434",
+                            "indexValue": "7479.32761867982"
+                        },
+                        {
+                            "areaId": "112",
+                            "indexValue": "3139.35034079995"
+                        },
+                        {
+                            "areaId": "447",
+                            "indexValue": "2087.59707764366"
+                        },
+                        {
+                            "areaId": "448",
+                            "indexValue": "2022.3477694328"
+                        },
+                        {
+                            "areaId": "449",
+                            "indexValue": "6118.18549264076"
+                        },
+                        {
+                            "areaId": "450",
+                            "indexValue": "426.666260003477"
+                        },
+                        {
+                            "areaId": "60",
+                            "indexValue": "367.146902133748"
+                        },
+                        {
+                            "areaId": "613",
+                            "indexValue": "1963.60598534708"
+                        },
+                        {
+                            "areaId": "639",
+                            "indexValue": "206.134593523901"
+                        },
+                        {
+                            "areaId": "640",
+                            "indexValue": "367.146902133748"
+                        },
+                        {
+                            "areaId": "647",
+                            "indexValue": "1963.60598534708"
+                        },
+                        {
+                            "areaId": "761",
+                            "indexValue": "206.134593523901"
+                        },
+                        {
+                            "areaId": "13",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "133049",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "152476",
+                            "indexValue": "206.134593523901"
+                        },
+                        {
+                            "areaId": "0",
+                            "indexValue": "33431.3501033781"
+                        }
+                    ]
+                },
+                {
+                    "productName": "其中：智慧家庭",
+                    "class1Name": "其中：一季度",
+                    "class2Name": null,
+                    "dataList": [
+                        {
+                            "areaId": "132686",
+                            "indexValue": "53524.9067380001"
+                        },
+                        {
+                            "areaId": "111",
+                            "indexValue": "41593.5402279849"
+                        },
+                        {
+                            "areaId": "434",
+                            "indexValue": "43922.5514760505"
+                        },
+                        {
+                            "areaId": "112",
+                            "indexValue": "12328.6762055978"
+                        },
+                        {
+                            "areaId": "447",
+                            "indexValue": "11656.8423450751"
+                        },
+                        {
+                            "areaId": "448",
+                            "indexValue": "29373.8156878795"
+                        },
+                        {
+                            "areaId": "449",
+                            "indexValue": "18479.23132"
+                        },
+                        {
+                            "areaId": "450",
+                            "indexValue": "9808.499942"
+                        },
+                        {
+                            "areaId": "60",
+                            "indexValue": "9963.93692053"
+                        },
+                        {
+                            "areaId": "613",
+                            "indexValue": "18339.8262933897"
+                        },
+                        {
+                            "areaId": "639",
+                            "indexValue": "6047.9488991"
+                        },
+                        {
+                            "areaId": "640",
+                            "indexValue": "46751.195694"
+                        },
+                        {
+                            "areaId": "647",
+                            "indexValue": "2613.749957"
+                        },
+                        {
+                            "areaId": "761",
+                            "indexValue": "12546.13178545"
+                        },
+                        {
+                            "areaId": "13",
+                            "indexValue": "746"
+                        },
+                        {
+                            "areaId": "133049",
+                            "indexValue": "61"
+                        },
+                        {
+                            "areaId": "152476",
+                            "indexValue": "6047.9488991"
+                        },
+                        {
+                            "areaId": "0",
+                            "indexValue": "270280.895653157"
+                        }
+                    ]
+                },
+                {
+                    "productName": "其中：智慧家庭",
+                    "class1Name": "二季度",
+                    "class2Name": null,
+                    "dataList": [
+                        {
+                            "areaId": "132686",
+                            "indexValue": "144653.212279293"
+                        },
+                        {
+                            "areaId": "111",
+                            "indexValue": "25858.99431739"
+                        },
+                        {
+                            "areaId": "434",
+                            "indexValue": "28120.0792604012"
+                        },
+                        {
+                            "areaId": "112",
+                            "indexValue": "11802.0157427041"
+                        },
+                        {
+                            "areaId": "447",
+                            "indexValue": "7847.48431218152"
+                        },
+                        {
+                            "areaId": "448",
+                            "indexValue": "7602.15068767214"
+                        },
+                        {
+                            "areaId": "449",
+                            "indexValue": "23002.26360212"
+                        },
+                        {
+                            "areaId": "450",
+                            "indexValue": "1602.48051483592"
+                        },
+                        {
+                            "areaId": "60",
+                            "indexValue": "1378.69117215871"
+                        },
+                        {
+                            "areaId": "613",
+                            "indexValue": "7381.28497744382"
+                        },
+                        {
+                            "areaId": "639",
+                            "indexValue": "773.294205585164"
+                        },
+                        {
+                            "areaId": "640",
+                            "indexValue": "1378.69117215871"
+                        },
+                        {
+                            "areaId": "647",
+                            "indexValue": "7381.28497744382"
+                        },
+                        {
+                            "areaId": "761",
+                            "indexValue": "773.294205585164"
+                        },
+                        {
+                            "areaId": "13",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "133049",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "152476",
+                            "indexValue": "773.294205585164"
+                        },
+                        {
+                            "areaId": "0",
+                            "indexValue": "116747.429964651"
+                        }
+                    ]
+                },
+                {
+                    "productName": "其中：智慧家庭",
+                    "class1Name": "三季度",
+                    "class2Name": null,
+                    "dataList": [
+                        {
+                            "areaId": "132686",
+                            "indexValue": "33881.7647223421"
+                        },
+                        {
+                            "areaId": "111",
+                            "indexValue": "6056.50366895789"
+                        },
+                        {
+                            "areaId": "434",
+                            "indexValue": "6586.1193344555"
+                        },
+                        {
+                            "areaId": "112",
+                            "indexValue": "2763.92676434877"
+                        },
+                        {
+                            "areaId": "447",
+                            "indexValue": "1837.65382543021"
+                        },
+                        {
+                            "areaId": "448",
+                            "indexValue": "1780.18914184321"
+                        },
+                        {
+                            "areaId": "449",
+                            "indexValue": "5387.36943603503"
+                        },
+                        {
+                            "areaId": "450",
+                            "indexValue": "374.881782128875"
+                        },
+                        {
+                            "areaId": "60",
+                            "indexValue": "322.463432247945"
+                        },
+                        {
+                            "areaId": "613",
+                            "indexValue": "1728.45559663972"
+                        },
+                        {
+                            "areaId": "639",
+                            "indexValue": "180.660835077448"
+                        },
+                        {
+                            "areaId": "640",
+                            "indexValue": "322.463432247945"
+                        },
+                        {
+                            "areaId": "647",
+                            "indexValue": "1728.45559663972"
+                        },
+                        {
+                            "areaId": "761",
+                            "indexValue": "180.660835077448"
+                        },
+                        {
+                            "areaId": "13",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "133049",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "152476",
+                            "indexValue": "180.660835077448"
+                        },
+                        {
+                            "areaId": "0",
+                            "indexValue": "29430.4645162072"
+                        }
+                    ]
+                },
+                {
+                    "productName": "其中：智慧家庭",
+                    "class1Name": "四季度",
+                    "class2Name": null,
+                    "dataList": [
+                        {
+                            "areaId": "132686",
+                            "indexValue": "35383.911926781"
+                        },
+                        {
+                            "areaId": "111",
+                            "indexValue": "6325.01860994617"
+                        },
+                        {
+                            "areaId": "434",
+                            "indexValue": "6878.1147729289"
+                        },
+                        {
+                            "areaId": "112",
+                            "indexValue": "2886.46538936916"
+                        },
+                        {
+                            "areaId": "447",
+                            "indexValue": "1919.12616251825"
+                        },
+                        {
+                            "areaId": "448",
+                            "indexValue": "1859.1137835998"
+                        },
+                        {
+                            "areaId": "449",
+                            "indexValue": "5626.21832728782"
+                        },
+                        {
+                            "areaId": "450",
+                            "indexValue": "391.502156706017"
+                        },
+                        {
+                            "areaId": "60",
+                            "indexValue": "336.759840574208"
+                        },
+                        {
+                            "areaId": "613",
+                            "indexValue": "1805.08663294395"
+                        },
+                        {
+                            "areaId": "639",
+                            "indexValue": "188.670428750832"
+                        },
+                        {
+                            "areaId": "640",
+                            "indexValue": "336.759840574208"
+                        },
+                        {
+                            "areaId": "647",
+                            "indexValue": "1805.08663294395"
+                        },
+                        {
+                            "areaId": "761",
+                            "indexValue": "188.670428750832"
+                        },
+                        {
+                            "areaId": "13",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "133049",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "152476",
+                            "indexValue": "188.670428750832"
+                        },
+                        {
+                            "areaId": "0",
+                            "indexValue": "30735.2634356449"
+                        }
+                    ]
+                },
+                {
+                    "productName": "物联网业务收入",
+                    "class1Name": "全年",
+                    "class2Name": null,
+                    "dataList": [
+                        {
+                            "areaId": "132686",
+                            "indexValue": "36913.8766720427"
+                        },
+                        {
+                            "areaId": "111",
+                            "indexValue": "6598.50604984164"
+                        },
+                        {
+                            "areaId": "434",
+                            "indexValue": "7175.51753433699"
+                        },
+                        {
+                            "areaId": "112",
+                            "indexValue": "3011.27324818622"
+                        },
+                        {
+                            "areaId": "447",
+                            "indexValue": "2002.1072465894"
+                        },
+                        {
+                            "areaId": "448",
+                            "indexValue": "1939.49999279633"
+                        },
+                        {
+                            "areaId": "449",
+                            "indexValue": "5869.49034615639"
+                        },
+                        {
+                            "areaId": "450",
+                            "indexValue": "408.430315997551"
+                        },
+                        {
+                            "areaId": "60",
+                            "indexValue": "351.32099720281"
+                        },
+                        {
+                            "areaId": "613",
+                            "indexValue": "1883.13676251307"
+                        },
+                        {
+                            "areaId": "639",
+                            "indexValue": "196.828348232983"
+                        },
+                        {
+                            "areaId": "640",
+                            "indexValue": "351.32099720281"
+                        },
+                        {
+                            "areaId": "647",
+                            "indexValue": "1883.13676251307"
+                        },
+                        {
+                            "areaId": "761",
+                            "indexValue": "196.828348232983"
+                        },
+                        {
+                            "areaId": "13",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "133049",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "152476",
+                            "indexValue": "196.828348232983"
+                        },
+                        {
+                            "areaId": "0",
+                            "indexValue": "32064.2252980352"
+                        }
+                    ]
+                },
+                {
+                    "productName": "物联网业务收入",
+                    "class1Name": "其中：一季度",
+                    "class2Name": null,
+                    "dataList": [
+                        {
+                            "areaId": "132686",
+                            "indexValue": "38473.6589581272"
+                        },
+                        {
+                            "areaId": "111",
+                            "indexValue": "6878.9659886443"
+                        },
+                        {
+                            "areaId": "434",
+                            "indexValue": "7480.32761867982"
+                        },
+                        {
+                            "areaId": "112",
+                            "indexValue": "3140.35034079995"
+                        },
+                        {
+                            "areaId": "447",
+                            "indexValue": "2088.59707764366"
+                        },
+                        {
+                            "areaId": "448",
+                            "indexValue": "2023.3477694328"
+                        },
+                        {
+                            "areaId": "449",
+                            "indexValue": "6119.18549264076"
+                        },
+                        {
+                            "areaId": "450",
+                            "indexValue": "427.666260003477"
+                        },
+                        {
+                            "areaId": "60",
+                            "indexValue": "368.146902133748"
+                        },
+                        {
+                            "areaId": "613",
+                            "indexValue": "1964.60598534708"
+                        },
+                        {
+                            "areaId": "639",
+                            "indexValue": "207.134593523901"
+                        },
+                        {
+                            "areaId": "640",
+                            "indexValue": "368.146902133748"
+                        },
+                        {
+                            "areaId": "647",
+                            "indexValue": "1964.60598534708"
+                        },
+                        {
+                            "areaId": "761",
+                            "indexValue": "207.134593523901"
+                        },
+                        {
+                            "areaId": "13",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "133049",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "152476",
+                            "indexValue": "207.134593523901"
+                        },
+                        {
+                            "areaId": "0",
+                            "indexValue": "33445.3501033781"
+                        }
+                    ]
+                },
+                {
+                    "productName": "物联网业务收入",
+                    "class1Name": "二季度",
+                    "class2Name": null,
+                    "dataList": [
+                        {
+                            "areaId": "132686",
+                            "indexValue": "53525.9067380001"
+                        },
+                        {
+                            "areaId": "111",
+                            "indexValue": "41594.5402279849"
+                        },
+                        {
+                            "areaId": "434",
+                            "indexValue": "43923.5514760505"
+                        },
+                        {
+                            "areaId": "112",
+                            "indexValue": "12329.6762055978"
+                        },
+                        {
+                            "areaId": "447",
+                            "indexValue": "11657.8423450751"
+                        },
+                        {
+                            "areaId": "448",
+                            "indexValue": "29374.8156878795"
+                        },
+                        {
+                            "areaId": "449",
+                            "indexValue": "18480.23132"
+                        },
+                        {
+                            "areaId": "450",
+                            "indexValue": "9809.499942"
+                        },
+                        {
+                            "areaId": "60",
+                            "indexValue": "9964.93692053"
+                        },
+                        {
+                            "areaId": "613",
+                            "indexValue": "18340.8262933897"
+                        },
+                        {
+                            "areaId": "639",
+                            "indexValue": "6048.9488991"
+                        },
+                        {
+                            "areaId": "640",
+                            "indexValue": "46752.195694"
+                        },
+                        {
+                            "areaId": "647",
+                            "indexValue": "2614.749957"
+                        },
+                        {
+                            "areaId": "761",
+                            "indexValue": "12547.13178545"
+                        },
+                        {
+                            "areaId": "13",
+                            "indexValue": "747"
+                        },
+                        {
+                            "areaId": "133049",
+                            "indexValue": "62"
+                        },
+                        {
+                            "areaId": "152476",
+                            "indexValue": "6048.9488991"
+                        },
+                        {
+                            "areaId": "0",
+                            "indexValue": "270296.895653157"
+                        }
+                    ]
+                },
+                {
+                    "productName": "物联网业务收入",
+                    "class1Name": "三季度",
+                    "class2Name": null,
+                    "dataList": [
+                        {
+                            "areaId": "132686",
+                            "indexValue": "144654.212279293"
+                        },
+                        {
+                            "areaId": "111",
+                            "indexValue": "25859.99431739"
+                        },
+                        {
+                            "areaId": "434",
+                            "indexValue": "28121.0792604012"
+                        },
+                        {
+                            "areaId": "112",
+                            "indexValue": "11803.0157427041"
+                        },
+                        {
+                            "areaId": "447",
+                            "indexValue": "7848.48431218152"
+                        },
+                        {
+                            "areaId": "448",
+                            "indexValue": "7603.15068767214"
+                        },
+                        {
+                            "areaId": "449",
+                            "indexValue": "23003.26360212"
+                        },
+                        {
+                            "areaId": "450",
+                            "indexValue": "1603.48051483592"
+                        },
+                        {
+                            "areaId": "60",
+                            "indexValue": "1379.69117215871"
+                        },
+                        {
+                            "areaId": "613",
+                            "indexValue": "7382.28497744382"
+                        },
+                        {
+                            "areaId": "639",
+                            "indexValue": "774.294205585164"
+                        },
+                        {
+                            "areaId": "640",
+                            "indexValue": "1379.69117215871"
+                        },
+                        {
+                            "areaId": "647",
+                            "indexValue": "7382.28497744382"
+                        },
+                        {
+                            "areaId": "761",
+                            "indexValue": "774.294205585164"
+                        },
+                        {
+                            "areaId": "13",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "133049",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "152476",
+                            "indexValue": "774.294205585164"
+                        },
+                        {
+                            "areaId": "0",
+                            "indexValue": "116758.429964651"
+                        }
+                    ]
+                },
+                {
+                    "productName": "物联网业务收入",
+                    "class1Name": "四季度",
+                    "class2Name": null,
+                    "dataList": [
+                        {
+                            "areaId": "132686",
+                            "indexValue": "33881.7647223421"
+                        },
+                        {
+                            "areaId": "111",
+                            "indexValue": "6056.50366895789"
+                        },
+                        {
+                            "areaId": "434",
+                            "indexValue": "6586.1193344555"
+                        },
+                        {
+                            "areaId": "112",
+                            "indexValue": "2763.92676434877"
+                        },
+                        {
+                            "areaId": "447",
+                            "indexValue": "1837.65382543021"
+                        },
+                        {
+                            "areaId": "448",
+                            "indexValue": "1780.18914184321"
+                        },
+                        {
+                            "areaId": "449",
+                            "indexValue": "5387.36943603503"
+                        },
+                        {
+                            "areaId": "450",
+                            "indexValue": "374.881782128875"
+                        },
+                        {
+                            "areaId": "60",
+                            "indexValue": "322.463432247945"
+                        },
+                        {
+                            "areaId": "613",
+                            "indexValue": "1728.45559663972"
+                        },
+                        {
+                            "areaId": "639",
+                            "indexValue": "180.660835077448"
+                        },
+                        {
+                            "areaId": "640",
+                            "indexValue": "322.463432247945"
+                        },
+                        {
+                            "areaId": "647",
+                            "indexValue": "1728.45559663972"
+                        },
+                        {
+                            "areaId": "761",
+                            "indexValue": "180.660835077448"
+                        },
+                        {
+                            "areaId": "13",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "133049",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "152476",
+                            "indexValue": "180.660835077448"
+                        },
+                        {
+                            "areaId": "0",
+                            "indexValue": "29430.4645162072"
+                        }
+                    ]
+                },
+                {
+                    "productName": "号百业务收入",
+                    "class1Name": "全年",
+                    "class2Name": null,
+                    "dataList": [
+                        {
+                            "areaId": "132686",
+                            "indexValue": "144652.212279293"
+                        },
+                        {
+                            "areaId": "111",
+                            "indexValue": "25857.99431739"
+                        },
+                        {
+                            "areaId": "434",
+                            "indexValue": "28119.0792604012"
+                        },
+                        {
+                            "areaId": "112",
+                            "indexValue": "11801.0157427041"
+                        },
+                        {
+                            "areaId": "447",
+                            "indexValue": "7846.48431218152"
+                        },
+                        {
+                            "areaId": "448",
+                            "indexValue": "7601.15068767214"
+                        },
+                        {
+                            "areaId": "449",
+                            "indexValue": "23001.26360212"
+                        },
+                        {
+                            "areaId": "450",
+                            "indexValue": "1601.48051483592"
+                        },
+                        {
+                            "areaId": "60",
+                            "indexValue": "1377.69117215871"
+                        },
+                        {
+                            "areaId": "613",
+                            "indexValue": "7380.28497744382"
+                        },
+                        {
+                            "areaId": "639",
+                            "indexValue": "772.294205585164"
+                        },
+                        {
+                            "areaId": "640",
+                            "indexValue": "1377.69117215871"
+                        },
+                        {
+                            "areaId": "647",
+                            "indexValue": "7380.28497744382"
+                        },
+                        {
+                            "areaId": "761",
+                            "indexValue": "772.294205585164"
+                        },
+                        {
+                            "areaId": "13",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "133049",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "152476",
+                            "indexValue": "772.294205585164"
+                        },
+                        {
+                            "areaId": "0",
+                            "indexValue": "116736.429964651"
+                        }
+                    ]
+                },
+                {
+                    "productName": "号百业务收入",
+                    "class1Name": "其中：一季度",
+                    "class2Name": null,
+                    "dataList": [
+                        {
+                            "areaId": "132686",
+                            "indexValue": "33881.7647223421"
+                        },
+                        {
+                            "areaId": "111",
+                            "indexValue": "6056.50366895789"
+                        },
+                        {
+                            "areaId": "434",
+                            "indexValue": "6586.1193344555"
+                        },
+                        {
+                            "areaId": "112",
+                            "indexValue": "2763.92676434877"
+                        },
+                        {
+                            "areaId": "447",
+                            "indexValue": "1837.65382543021"
+                        },
+                        {
+                            "areaId": "448",
+                            "indexValue": "1780.18914184321"
+                        },
+                        {
+                            "areaId": "449",
+                            "indexValue": "5387.36943603503"
+                        },
+                        {
+                            "areaId": "450",
+                            "indexValue": "374.881782128875"
+                        },
+                        {
+                            "areaId": "60",
+                            "indexValue": "322.463432247945"
+                        },
+                        {
+                            "areaId": "613",
+                            "indexValue": "1728.45559663972"
+                        },
+                        {
+                            "areaId": "639",
+                            "indexValue": "180.660835077448"
+                        },
+                        {
+                            "areaId": "640",
+                            "indexValue": "322.463432247945"
+                        },
+                        {
+                            "areaId": "647",
+                            "indexValue": "1728.45559663972"
+                        },
+                        {
+                            "areaId": "761",
+                            "indexValue": "180.660835077448"
+                        },
+                        {
+                            "areaId": "13",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "133049",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "152476",
+                            "indexValue": "180.660835077448"
+                        },
+                        {
+                            "areaId": "0",
+                            "indexValue": "29430.4645162072"
+                        }
+                    ]
+                },
+                {
+                    "productName": "号百业务收入",
+                    "class1Name": "二季度",
+                    "class2Name": null,
+                    "dataList": [
+                        {
+                            "areaId": "132686",
+                            "indexValue": "35383.911926781"
+                        },
+                        {
+                            "areaId": "111",
+                            "indexValue": "6325.01860994617"
+                        },
+                        {
+                            "areaId": "434",
+                            "indexValue": "6878.1147729289"
+                        },
+                        {
+                            "areaId": "112",
+                            "indexValue": "2886.46538936916"
+                        },
+                        {
+                            "areaId": "447",
+                            "indexValue": "1919.12616251825"
+                        },
+                        {
+                            "areaId": "448",
+                            "indexValue": "1859.1137835998"
+                        },
+                        {
+                            "areaId": "449",
+                            "indexValue": "5626.21832728782"
+                        },
+                        {
+                            "areaId": "450",
+                            "indexValue": "391.502156706017"
+                        },
+                        {
+                            "areaId": "60",
+                            "indexValue": "336.759840574208"
+                        },
+                        {
+                            "areaId": "613",
+                            "indexValue": "1805.08663294395"
+                        },
+                        {
+                            "areaId": "639",
+                            "indexValue": "188.670428750832"
+                        },
+                        {
+                            "areaId": "640",
+                            "indexValue": "336.759840574208"
+                        },
+                        {
+                            "areaId": "647",
+                            "indexValue": "1805.08663294395"
+                        },
+                        {
+                            "areaId": "761",
+                            "indexValue": "188.670428750832"
+                        },
+                        {
+                            "areaId": "13",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "133049",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "152476",
+                            "indexValue": "188.670428750832"
+                        },
+                        {
+                            "areaId": "0",
+                            "indexValue": "30735.2634356449"
+                        }
+                    ]
+                },
+                {
+                    "productName": "号百业务收入",
+                    "class1Name": "三季度",
+                    "class2Name": null,
+                    "dataList": [
+                        {
+                            "areaId": "132686",
+                            "indexValue": "36913.8766720427"
+                        },
+                        {
+                            "areaId": "111",
+                            "indexValue": "6598.50604984164"
+                        },
+                        {
+                            "areaId": "434",
+                            "indexValue": "7175.51753433699"
+                        },
+                        {
+                            "areaId": "112",
+                            "indexValue": "3011.27324818622"
+                        },
+                        {
+                            "areaId": "447",
+                            "indexValue": "2002.1072465894"
+                        },
+                        {
+                            "areaId": "448",
+                            "indexValue": "1939.49999279633"
+                        },
+                        {
+                            "areaId": "449",
+                            "indexValue": "5869.49034615639"
+                        },
+                        {
+                            "areaId": "450",
+                            "indexValue": "408.430315997551"
+                        },
+                        {
+                            "areaId": "60",
+                            "indexValue": "351.32099720281"
+                        },
+                        {
+                            "areaId": "613",
+                            "indexValue": "1883.13676251307"
+                        },
+                        {
+                            "areaId": "639",
+                            "indexValue": "196.828348232983"
+                        },
+                        {
+                            "areaId": "640",
+                            "indexValue": "351.32099720281"
+                        },
+                        {
+                            "areaId": "647",
+                            "indexValue": "1883.13676251307"
+                        },
+                        {
+                            "areaId": "761",
+                            "indexValue": "196.828348232983"
+                        },
+                        {
+                            "areaId": "13",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "133049",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "152476",
+                            "indexValue": "196.828348232983"
+                        },
+                        {
+                            "areaId": "0",
+                            "indexValue": "32064.2252980352"
+                        }
+                    ]
+                },
+                {
+                    "productName": "号百业务收入",
+                    "class1Name": "四季度",
+                    "class2Name": null,
+                    "dataList": [
+                        {
+                            "areaId": "132686",
+                            "indexValue": "38472.6589581272"
+                        },
+                        {
+                            "areaId": "111",
+                            "indexValue": "6877.9659886443"
+                        },
+                        {
+                            "areaId": "434",
+                            "indexValue": "7479.32761867982"
+                        },
+                        {
+                            "areaId": "112",
+                            "indexValue": "3139.35034079995"
+                        },
+                        {
+                            "areaId": "447",
+                            "indexValue": "2087.59707764366"
+                        },
+                        {
+                            "areaId": "448",
+                            "indexValue": "2022.3477694328"
+                        },
+                        {
+                            "areaId": "449",
+                            "indexValue": "6118.18549264076"
+                        },
+                        {
+                            "areaId": "450",
+                            "indexValue": "426.666260003477"
+                        },
+                        {
+                            "areaId": "60",
+                            "indexValue": "367.146902133748"
+                        },
+                        {
+                            "areaId": "613",
+                            "indexValue": "1963.60598534708"
+                        },
+                        {
+                            "areaId": "639",
+                            "indexValue": "206.134593523901"
+                        },
+                        {
+                            "areaId": "640",
+                            "indexValue": "367.146902133748"
+                        },
+                        {
+                            "areaId": "647",
+                            "indexValue": "1963.60598534708"
+                        },
+                        {
+                            "areaId": "761",
+                            "indexValue": "206.134593523901"
+                        },
+                        {
+                            "areaId": "13",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "133049",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "152476",
+                            "indexValue": "206.134593523901"
+                        },
+                        {
+                            "areaId": "0",
+                            "indexValue": "33431.3501033781"
+                        }
+                    ]
+                },
+                {
+                    "productName": "物联网专线",
+                    "class1Name": "全年",
+                    "class2Name": null,
+                    "dataList": [
+                        {
+                            "areaId": "132686",
+                            "indexValue": "235780.517820586"
+                        },
+                        {
+                            "areaId": "111",
+                            "indexValue": "10123.4484067951"
+                        },
+                        {
+                            "areaId": "434",
+                            "indexValue": "12316.6070447518"
+                        },
+                        {
+                            "areaId": "112",
+                            "indexValue": "11274.3552798104"
+                        },
+                        {
+                            "areaId": "447",
+                            "indexValue": "4037.12627928794"
+                        },
+                        {
+                            "areaId": "448",
+                            "indexValue": "-14170.5143125352"
+                        },
+                        {
+                            "areaId": "449",
+                            "indexValue": "27524.29588424"
+                        },
+                        {
+                            "areaId": "450",
+                            "indexValue": "-6604.53891232816"
+                        },
+                        {
+                            "areaId": "60",
+                            "indexValue": "-7207.55457621258"
+                        },
+                        {
+                            "areaId": "613",
+                            "indexValue": "-3578.25633850206"
+                        },
+                        {
+                            "areaId": "639",
+                            "indexValue": "-4502.36048792968"
+                        },
+                        {
+                            "areaId": "640",
+                            "indexValue": "-43994.8133496826"
+                        },
+                        {
+                            "areaId": "647",
+                            "indexValue": "12147.8199978876"
+                        },
+                        {
+                            "areaId": "761",
+                            "indexValue": "-11000.5433742797"
+                        },
+                        {
+                            "areaId": "13",
+                            "indexValue": "748"
+                        },
+                        {
+                            "areaId": "133049",
+                            "indexValue": "63"
+                        },
+                        {
+                            "areaId": "152476",
+                            "indexValue": "-4502.36048792968"
+                        },
+                        {
+                            "areaId": "0",
+                            "indexValue": "-17326.2889466267"
+                        }
+                    ]
+                },
+                {
+                    "productName": "物联网专线",
+                    "class1Name": "其中：一季度",
+                    "class2Name": null,
+                    "dataList": [
+                        {
+                            "areaId": "132686",
+                            "indexValue": "326908.823361879"
+                        },
+                        {
+                            "areaId": "111",
+                            "indexValue": "-5611.09750379979"
+                        },
+                        {
+                            "areaId": "434",
+                            "indexValue": "-3485.86517089755"
+                        },
+                        {
+                            "areaId": "112",
+                            "indexValue": "10747.6948169167"
+                        },
+                        {
+                            "areaId": "447",
+                            "indexValue": "227.768246394367"
+                        },
+                        {
+                            "areaId": "448",
+                            "indexValue": "-35942.1793127425"
+                        },
+                        {
+                            "areaId": "449",
+                            "indexValue": "32047.32816636"
+                        },
+                        {
+                            "areaId": "450",
+                            "indexValue": "-14810.5583394922"
+                        },
+                        {
+                            "areaId": "60",
+                            "indexValue": "-15792.8003245839"
+                        },
+                        {
+                            "areaId": "613",
+                            "indexValue": "-14536.7976544479"
+                        },
+                        {
+                            "areaId": "639",
+                            "indexValue": "-9777.01518144452"
+                        },
+                        {
+                            "areaId": "640",
+                            "indexValue": "-89367.3178715239"
+                        },
+                        {
+                            "areaId": "647",
+                            "indexValue": "16915.3550183315"
+                        },
+                        {
+                            "areaId": "761",
+                            "indexValue": "-22773.3809541445"
+                        },
+                        {
+                            "areaId": "13",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "133049",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "152476",
+                            "indexValue": "-9777.01518144452"
+                        },
+                        {
+                            "areaId": "0",
+                            "indexValue": "-146300.840129261"
+                        }
+                    ]
+                },
+                {
+                    "productName": "物联网专线",
+                    "class1Name": "二季度",
+                    "class2Name": null,
+                    "dataList": [
+                        {
+                            "areaId": "132686",
+                            "indexValue": "144652.212279293"
+                        },
+                        {
+                            "areaId": "111",
+                            "indexValue": "25857.99431739"
+                        },
+                        {
+                            "areaId": "434",
+                            "indexValue": "28119.0792604012"
+                        },
+                        {
+                            "areaId": "112",
+                            "indexValue": "11801.0157427041"
+                        },
+                        {
+                            "areaId": "447",
+                            "indexValue": "7846.48431218152"
+                        },
+                        {
+                            "areaId": "448",
+                            "indexValue": "7601.15068767214"
+                        },
+                        {
+                            "areaId": "449",
+                            "indexValue": "23001.26360212"
+                        },
+                        {
+                            "areaId": "450",
+                            "indexValue": "1601.48051483592"
+                        },
+                        {
+                            "areaId": "60",
+                            "indexValue": "1377.69117215871"
+                        },
+                        {
+                            "areaId": "613",
+                            "indexValue": "7380.28497744382"
+                        },
+                        {
+                            "areaId": "639",
+                            "indexValue": "772.294205585164"
+                        },
+                        {
+                            "areaId": "640",
+                            "indexValue": "1377.69117215871"
+                        },
+                        {
+                            "areaId": "647",
+                            "indexValue": "7380.28497744382"
+                        },
+                        {
+                            "areaId": "761",
+                            "indexValue": "772.294205585164"
+                        },
+                        {
+                            "areaId": "13",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "133049",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "152476",
+                            "indexValue": "772.294205585164"
+                        },
+                        {
+                            "areaId": "0",
+                            "indexValue": "116736.429964651"
+                        }
+                    ]
+                },
+                {
+                    "productName": "物联网专线",
+                    "class1Name": "三季度",
+                    "class2Name": null,
+                    "dataList": [
+                        {
+                            "areaId": "132686",
+                            "indexValue": "33881.7647223421"
+                        },
+                        {
+                            "areaId": "111",
+                            "indexValue": "6056.50366895789"
+                        },
+                        {
+                            "areaId": "434",
+                            "indexValue": "6586.1193344555"
+                        },
+                        {
+                            "areaId": "112",
+                            "indexValue": "2763.92676434877"
+                        },
+                        {
+                            "areaId": "447",
+                            "indexValue": "1837.65382543021"
+                        },
+                        {
+                            "areaId": "448",
+                            "indexValue": "1780.18914184321"
+                        },
+                        {
+                            "areaId": "449",
+                            "indexValue": "5387.36943603503"
+                        },
+                        {
+                            "areaId": "450",
+                            "indexValue": "374.881782128875"
+                        },
+                        {
+                            "areaId": "60",
+                            "indexValue": "322.463432247945"
+                        },
+                        {
+                            "areaId": "613",
+                            "indexValue": "1728.45559663972"
+                        },
+                        {
+                            "areaId": "639",
+                            "indexValue": "180.660835077448"
+                        },
+                        {
+                            "areaId": "640",
+                            "indexValue": "322.463432247945"
+                        },
+                        {
+                            "areaId": "647",
+                            "indexValue": "1728.45559663972"
+                        },
+                        {
+                            "areaId": "761",
+                            "indexValue": "180.660835077448"
+                        },
+                        {
+                            "areaId": "13",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "133049",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "152476",
+                            "indexValue": "180.660835077448"
+                        },
+                        {
+                            "areaId": "0",
+                            "indexValue": "29430.4645162072"
+                        }
+                    ]
+                },
+                {
+                    "productName": "物联网专线",
+                    "class1Name": "四季度",
+                    "class2Name": null,
+                    "dataList": [
+                        {
+                            "areaId": "132686",
+                            "indexValue": "35383.911926781"
+                        },
+                        {
+                            "areaId": "111",
+                            "indexValue": "6325.01860994617"
+                        },
+                        {
+                            "areaId": "434",
+                            "indexValue": "6878.1147729289"
+                        },
+                        {
+                            "areaId": "112",
+                            "indexValue": "2886.46538936916"
+                        },
+                        {
+                            "areaId": "447",
+                            "indexValue": "1919.12616251825"
+                        },
+                        {
+                            "areaId": "448",
+                            "indexValue": "1859.1137835998"
+                        },
+                        {
+                            "areaId": "449",
+                            "indexValue": "5626.21832728782"
+                        },
+                        {
+                            "areaId": "450",
+                            "indexValue": "391.502156706017"
+                        },
+                        {
+                            "areaId": "60",
+                            "indexValue": "336.759840574208"
+                        },
+                        {
+                            "areaId": "613",
+                            "indexValue": "1805.08663294395"
+                        },
+                        {
+                            "areaId": "639",
+                            "indexValue": "188.670428750832"
+                        },
+                        {
+                            "areaId": "640",
+                            "indexValue": "336.759840574208"
+                        },
+                        {
+                            "areaId": "647",
+                            "indexValue": "1805.08663294395"
+                        },
+                        {
+                            "areaId": "761",
+                            "indexValue": "188.670428750832"
+                        },
+                        {
+                            "areaId": "13",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "133049",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "152476",
+                            "indexValue": "188.670428750832"
+                        },
+                        {
+                            "areaId": "0",
+                            "indexValue": "30735.2634356449"
+                        }
+                    ]
+                },
+                {
+                    "productName": "组网专线",
+                    "class1Name": "全年",
+                    "class2Name": null,
+                    "dataList": [
+                        {
+                            "areaId": "132686",
+                            "indexValue": "36913.8766720427"
+                        },
+                        {
+                            "areaId": "111",
+                            "indexValue": "6598.50604984164"
+                        },
+                        {
+                            "areaId": "434",
+                            "indexValue": "7175.51753433699"
+                        },
+                        {
+                            "areaId": "112",
+                            "indexValue": "3011.27324818622"
+                        },
+                        {
+                            "areaId": "447",
+                            "indexValue": "2002.1072465894"
+                        },
+                        {
+                            "areaId": "448",
+                            "indexValue": "1939.49999279633"
+                        },
+                        {
+                            "areaId": "449",
+                            "indexValue": "5869.49034615639"
+                        },
+                        {
+                            "areaId": "450",
+                            "indexValue": "408.430315997551"
+                        },
+                        {
+                            "areaId": "60",
+                            "indexValue": "351.32099720281"
+                        },
+                        {
+                            "areaId": "613",
+                            "indexValue": "1883.13676251307"
+                        },
+                        {
+                            "areaId": "639",
+                            "indexValue": "196.828348232983"
+                        },
+                        {
+                            "areaId": "640",
+                            "indexValue": "351.32099720281"
+                        },
+                        {
+                            "areaId": "647",
+                            "indexValue": "1883.13676251307"
+                        },
+                        {
+                            "areaId": "761",
+                            "indexValue": "196.828348232983"
+                        },
+                        {
+                            "areaId": "13",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "133049",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "152476",
+                            "indexValue": "196.828348232983"
+                        },
+                        {
+                            "areaId": "0",
+                            "indexValue": "32064.2252980352"
+                        }
+                    ]
+                },
+                {
+                    "productName": "组网专线",
+                    "class1Name": "其中：一季度",
+                    "class2Name": null,
+                    "dataList": [
+                        {
+                            "areaId": "132686",
+                            "indexValue": "38472.6589581272"
+                        },
+                        {
+                            "areaId": "111",
+                            "indexValue": "6877.9659886443"
+                        },
+                        {
+                            "areaId": "434",
+                            "indexValue": "7479.32761867982"
+                        },
+                        {
+                            "areaId": "112",
+                            "indexValue": "3139.35034079995"
+                        },
+                        {
+                            "areaId": "447",
+                            "indexValue": "2087.59707764366"
+                        },
+                        {
+                            "areaId": "448",
+                            "indexValue": "2022.3477694328"
+                        },
+                        {
+                            "areaId": "449",
+                            "indexValue": "6118.18549264076"
+                        },
+                        {
+                            "areaId": "450",
+                            "indexValue": "426.666260003477"
+                        },
+                        {
+                            "areaId": "60",
+                            "indexValue": "367.146902133748"
+                        },
+                        {
+                            "areaId": "613",
+                            "indexValue": "1963.60598534708"
+                        },
+                        {
+                            "areaId": "639",
+                            "indexValue": "206.134593523901"
+                        },
+                        {
+                            "areaId": "640",
+                            "indexValue": "367.146902133748"
+                        },
+                        {
+                            "areaId": "647",
+                            "indexValue": "1963.60598534708"
+                        },
+                        {
+                            "areaId": "761",
+                            "indexValue": "206.134593523901"
+                        },
+                        {
+                            "areaId": "13",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "133049",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "152476",
+                            "indexValue": "206.134593523901"
+                        },
+                        {
+                            "areaId": "0",
+                            "indexValue": "33431.3501033781"
+                        }
+                    ]
+                },
+                {
+                    "productName": "组网专线",
+                    "class1Name": "二季度",
+                    "class2Name": null,
+                    "dataList": [
+                        {
+                            "areaId": "132686",
+                            "indexValue": "235780.517820586"
+                        },
+                        {
+                            "areaId": "111",
+                            "indexValue": "10123.4484067951"
+                        },
+                        {
+                            "areaId": "434",
+                            "indexValue": "12316.6070447518"
+                        },
+                        {
+                            "areaId": "112",
+                            "indexValue": "11274.3552798104"
+                        },
+                        {
+                            "areaId": "447",
+                            "indexValue": "4037.12627928794"
+                        },
+                        {
+                            "areaId": "448",
+                            "indexValue": "-14170.5143125352"
+                        },
+                        {
+                            "areaId": "449",
+                            "indexValue": "27524.29588424"
+                        },
+                        {
+                            "areaId": "450",
+                            "indexValue": "-6604.53891232816"
+                        },
+                        {
+                            "areaId": "60",
+                            "indexValue": "-7207.55457621258"
+                        },
+                        {
+                            "areaId": "613",
+                            "indexValue": "-3578.25633850206"
+                        },
+                        {
+                            "areaId": "639",
+                            "indexValue": "-4502.36048792968"
+                        },
+                        {
+                            "areaId": "640",
+                            "indexValue": "-43994.8133496826"
+                        },
+                        {
+                            "areaId": "647",
+                            "indexValue": "12147.8199978876"
+                        },
+                        {
+                            "areaId": "761",
+                            "indexValue": "-11000.5433742797"
+                        },
+                        {
+                            "areaId": "13",
+                            "indexValue": "748.383561643836"
+                        },
+                        {
+                            "areaId": "133049",
+                            "indexValue": "63.3835616438356"
+                        },
+                        {
+                            "areaId": "152476",
+                            "indexValue": "-4502.36048792968"
+                        },
+                        {
+                            "areaId": "0",
+                            "indexValue": "-17325.521823339"
+                        }
+                    ]
+                },
+                {
+                    "productName": "组网专线",
+                    "class1Name": "三季度",
+                    "class2Name": null,
+                    "dataList": [
+                        {
+                            "areaId": "132686",
+                            "indexValue": "326908.823361879"
+                        },
+                        {
+                            "areaId": "111",
+                            "indexValue": "-5611.09750379979"
+                        },
+                        {
+                            "areaId": "434",
+                            "indexValue": "-3485.86517089755"
+                        },
+                        {
+                            "areaId": "112",
+                            "indexValue": "10747.6948169167"
+                        },
+                        {
+                            "areaId": "447",
+                            "indexValue": "227.768246394367"
+                        },
+                        {
+                            "areaId": "448",
+                            "indexValue": "-35942.1793127425"
+                        },
+                        {
+                            "areaId": "449",
+                            "indexValue": "32047.32816636"
+                        },
+                        {
+                            "areaId": "450",
+                            "indexValue": "-14810.5583394922"
+                        },
+                        {
+                            "areaId": "60",
+                            "indexValue": "-15792.8003245839"
+                        },
+                        {
+                            "areaId": "613",
+                            "indexValue": "-14536.7976544479"
+                        },
+                        {
+                            "areaId": "639",
+                            "indexValue": "-9777.01518144452"
+                        },
+                        {
+                            "areaId": "640",
+                            "indexValue": "-89367.3178715239"
+                        },
+                        {
+                            "areaId": "647",
+                            "indexValue": "16915.3550183315"
+                        },
+                        {
+                            "areaId": "761",
+                            "indexValue": "-22773.3809541445"
+                        },
+                        {
+                            "areaId": "13",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "133049",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "152476",
+                            "indexValue": "-9777.01518144452"
+                        },
+                        {
+                            "areaId": "0",
+                            "indexValue": "-146300.840129261"
+                        }
+                    ]
+                },
+                {
+                    "productName": "组网专线",
+                    "class1Name": "四季度",
+                    "class2Name": null,
+                    "dataList": [
+                        {
+                            "areaId": "132686",
+                            "indexValue": "33881.7647223421"
+                        },
+                        {
+                            "areaId": "111",
+                            "indexValue": "6056.50366895789"
+                        },
+                        {
+                            "areaId": "434",
+                            "indexValue": "6586.1193344555"
+                        },
+                        {
+                            "areaId": "112",
+                            "indexValue": "2763.92676434877"
+                        },
+                        {
+                            "areaId": "447",
+                            "indexValue": "1837.65382543021"
+                        },
+                        {
+                            "areaId": "448",
+                            "indexValue": "1780.18914184321"
+                        },
+                        {
+                            "areaId": "449",
+                            "indexValue": "5387.36943603503"
+                        },
+                        {
+                            "areaId": "450",
+                            "indexValue": "374.881782128875"
+                        },
+                        {
+                            "areaId": "60",
+                            "indexValue": "322.463432247945"
+                        },
+                        {
+                            "areaId": "613",
+                            "indexValue": "1728.45559663972"
+                        },
+                        {
+                            "areaId": "639",
+                            "indexValue": "180.660835077448"
+                        },
+                        {
+                            "areaId": "640",
+                            "indexValue": "322.463432247945"
+                        },
+                        {
+                            "areaId": "647",
+                            "indexValue": "1728.45559663972"
+                        },
+                        {
+                            "areaId": "761",
+                            "indexValue": "180.660835077448"
+                        },
+                        {
+                            "areaId": "13",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "133049",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "152476",
+                            "indexValue": "180.660835077448"
+                        },
+                        {
+                            "areaId": "0",
+                            "indexValue": "29430.4645162072"
+                        }
+                    ]
+                },
+                {
+                    "productName": "IDC",
+                    "class1Name": "全年",
+                    "class2Name": null,
+                    "dataList": [
+                        {
+                            "areaId": "132686",
+                            "indexValue": "35383.911926781"
+                        },
+                        {
+                            "areaId": "111",
+                            "indexValue": "6325.01860994617"
+                        },
+                        {
+                            "areaId": "434",
+                            "indexValue": "6878.1147729289"
+                        },
+                        {
+                            "areaId": "112",
+                            "indexValue": "2886.46538936916"
+                        },
+                        {
+                            "areaId": "447",
+                            "indexValue": "1919.12616251825"
+                        },
+                        {
+                            "areaId": "448",
+                            "indexValue": "1859.1137835998"
+                        },
+                        {
+                            "areaId": "449",
+                            "indexValue": "5626.21832728782"
+                        },
+                        {
+                            "areaId": "450",
+                            "indexValue": "391.502156706017"
+                        },
+                        {
+                            "areaId": "60",
+                            "indexValue": "336.759840574208"
+                        },
+                        {
+                            "areaId": "613",
+                            "indexValue": "1805.08663294395"
+                        },
+                        {
+                            "areaId": "639",
+                            "indexValue": "188.670428750832"
+                        },
+                        {
+                            "areaId": "640",
+                            "indexValue": "336.759840574208"
+                        },
+                        {
+                            "areaId": "647",
+                            "indexValue": "1805.08663294395"
+                        },
+                        {
+                            "areaId": "761",
+                            "indexValue": "188.670428750832"
+                        },
+                        {
+                            "areaId": "13",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "133049",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "152476",
+                            "indexValue": "188.670428750832"
+                        },
+                        {
+                            "areaId": "0",
+                            "indexValue": "30735.2634356449"
+                        }
+                    ]
+                },
+                {
+                    "productName": "IDC",
+                    "class1Name": "其中：一季度",
+                    "class2Name": null,
+                    "dataList": [
+                        {
+                            "areaId": "132686",
+                            "indexValue": "36913.8766720427"
+                        },
+                        {
+                            "areaId": "111",
+                            "indexValue": "6598.50604984164"
+                        },
+                        {
+                            "areaId": "434",
+                            "indexValue": "7175.51753433699"
+                        },
+                        {
+                            "areaId": "112",
+                            "indexValue": "3011.27324818622"
+                        },
+                        {
+                            "areaId": "447",
+                            "indexValue": "2002.1072465894"
+                        },
+                        {
+                            "areaId": "448",
+                            "indexValue": "1939.49999279633"
+                        },
+                        {
+                            "areaId": "449",
+                            "indexValue": "5869.49034615639"
+                        },
+                        {
+                            "areaId": "450",
+                            "indexValue": "408.430315997551"
+                        },
+                        {
+                            "areaId": "60",
+                            "indexValue": "351.32099720281"
+                        },
+                        {
+                            "areaId": "613",
+                            "indexValue": "1883.13676251307"
+                        },
+                        {
+                            "areaId": "639",
+                            "indexValue": "196.828348232983"
+                        },
+                        {
+                            "areaId": "640",
+                            "indexValue": "351.32099720281"
+                        },
+                        {
+                            "areaId": "647",
+                            "indexValue": "1883.13676251307"
+                        },
+                        {
+                            "areaId": "761",
+                            "indexValue": "196.828348232983"
+                        },
+                        {
+                            "areaId": "13",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "133049",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "152476",
+                            "indexValue": "196.828348232983"
+                        },
+                        {
+                            "areaId": "0",
+                            "indexValue": "32064.2252980352"
+                        }
+                    ]
+                },
+                {
+                    "productName": "IDC",
+                    "class1Name": "二季度",
+                    "class2Name": null,
+                    "dataList": [
+                        {
+                            "areaId": "132686",
+                            "indexValue": "144652.212279293"
+                        },
+                        {
+                            "areaId": "111",
+                            "indexValue": "25857.99431739"
+                        },
+                        {
+                            "areaId": "434",
+                            "indexValue": "28119.0792604012"
+                        },
+                        {
+                            "areaId": "112",
+                            "indexValue": "11801.0157427041"
+                        },
+                        {
+                            "areaId": "447",
+                            "indexValue": "7846.48431218152"
+                        },
+                        {
+                            "areaId": "448",
+                            "indexValue": "7601.15068767214"
+                        },
+                        {
+                            "areaId": "449",
+                            "indexValue": "23001.26360212"
+                        },
+                        {
+                            "areaId": "450",
+                            "indexValue": "1601.48051483592"
+                        },
+                        {
+                            "areaId": "60",
+                            "indexValue": "1377.69117215871"
+                        },
+                        {
+                            "areaId": "613",
+                            "indexValue": "7380.28497744382"
+                        },
+                        {
+                            "areaId": "639",
+                            "indexValue": "772.294205585164"
+                        },
+                        {
+                            "areaId": "640",
+                            "indexValue": "1377.69117215871"
+                        },
+                        {
+                            "areaId": "647",
+                            "indexValue": "7380.28497744382"
+                        },
+                        {
+                            "areaId": "761",
+                            "indexValue": "772.294205585164"
+                        },
+                        {
+                            "areaId": "13",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "133049",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "152476",
+                            "indexValue": "772.294205585164"
+                        },
+                        {
+                            "areaId": "0",
+                            "indexValue": "116736.429964651"
+                        }
+                    ]
+                },
+                {
+                    "productName": "IDC",
+                    "class1Name": "三季度",
+                    "class2Name": null,
+                    "dataList": [
+                        {
+                            "areaId": "132686",
+                            "indexValue": "33881.7647223421"
+                        },
+                        {
+                            "areaId": "111",
+                            "indexValue": "6056.50366895789"
+                        },
+                        {
+                            "areaId": "434",
+                            "indexValue": "6586.1193344555"
+                        },
+                        {
+                            "areaId": "112",
+                            "indexValue": "2763.92676434877"
+                        },
+                        {
+                            "areaId": "447",
+                            "indexValue": "1837.65382543021"
+                        },
+                        {
+                            "areaId": "448",
+                            "indexValue": "1780.18914184321"
+                        },
+                        {
+                            "areaId": "449",
+                            "indexValue": "5387.36943603503"
+                        },
+                        {
+                            "areaId": "450",
+                            "indexValue": "374.881782128875"
+                        },
+                        {
+                            "areaId": "60",
+                            "indexValue": "322.463432247945"
+                        },
+                        {
+                            "areaId": "613",
+                            "indexValue": "1728.45559663972"
+                        },
+                        {
+                            "areaId": "639",
+                            "indexValue": "180.660835077448"
+                        },
+                        {
+                            "areaId": "640",
+                            "indexValue": "322.463432247945"
+                        },
+                        {
+                            "areaId": "647",
+                            "indexValue": "1728.45559663972"
+                        },
+                        {
+                            "areaId": "761",
+                            "indexValue": "180.660835077448"
+                        },
+                        {
+                            "areaId": "13",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "133049",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "152476",
+                            "indexValue": "180.660835077448"
+                        },
+                        {
+                            "areaId": "0",
+                            "indexValue": "29430.4645162072"
+                        }
+                    ]
+                },
+                {
+                    "productName": "IDC",
+                    "class1Name": "四季度",
+                    "class2Name": null,
+                    "dataList": [
+                        {
+                            "areaId": "132686",
+                            "indexValue": "35383.911926781"
+                        },
+                        {
+                            "areaId": "111",
+                            "indexValue": "6325.01860994617"
+                        },
+                        {
+                            "areaId": "434",
+                            "indexValue": "6878.1147729289"
+                        },
+                        {
+                            "areaId": "112",
+                            "indexValue": "2886.46538936916"
+                        },
+                        {
+                            "areaId": "447",
+                            "indexValue": "1919.12616251825"
+                        },
+                        {
+                            "areaId": "448",
+                            "indexValue": "1859.1137835998"
+                        },
+                        {
+                            "areaId": "449",
+                            "indexValue": "5626.21832728782"
+                        },
+                        {
+                            "areaId": "450",
+                            "indexValue": "391.502156706017"
+                        },
+                        {
+                            "areaId": "60",
+                            "indexValue": "336.759840574208"
+                        },
+                        {
+                            "areaId": "613",
+                            "indexValue": "1805.08663294395"
+                        },
+                        {
+                            "areaId": "639",
+                            "indexValue": "188.670428750832"
+                        },
+                        {
+                            "areaId": "640",
+                            "indexValue": "336.759840574208"
+                        },
+                        {
+                            "areaId": "647",
+                            "indexValue": "1805.08663294395"
+                        },
+                        {
+                            "areaId": "761",
+                            "indexValue": "188.670428750832"
+                        },
+                        {
+                            "areaId": "13",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "133049",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "152476",
+                            "indexValue": "188.670428750832"
+                        },
+                        {
+                            "areaId": "0",
+                            "indexValue": "30735.2634356449"
+                        }
+                    ]
+                },
+                {
+                    "productName": "ICT",
+                    "class1Name": "全年",
+                    "class2Name": null,
+                    "dataList": [
+                        {
+                            "areaId": "132686",
+                            "indexValue": "36913.8766720427"
+                        },
+                        {
+                            "areaId": "111",
+                            "indexValue": "6598.50604984164"
+                        },
+                        {
+                            "areaId": "434",
+                            "indexValue": "7175.51753433699"
+                        },
+                        {
+                            "areaId": "112",
+                            "indexValue": "3011.27324818622"
+                        },
+                        {
+                            "areaId": "447",
+                            "indexValue": "2002.1072465894"
+                        },
+                        {
+                            "areaId": "448",
+                            "indexValue": "1939.49999279633"
+                        },
+                        {
+                            "areaId": "449",
+                            "indexValue": "5869.49034615639"
+                        },
+                        {
+                            "areaId": "450",
+                            "indexValue": "408.430315997551"
+                        },
+                        {
+                            "areaId": "60",
+                            "indexValue": "351.32099720281"
+                        },
+                        {
+                            "areaId": "613",
+                            "indexValue": "1883.13676251307"
+                        },
+                        {
+                            "areaId": "639",
+                            "indexValue": "196.828348232983"
+                        },
+                        {
+                            "areaId": "640",
+                            "indexValue": "351.32099720281"
+                        },
+                        {
+                            "areaId": "647",
+                            "indexValue": "1883.13676251307"
+                        },
+                        {
+                            "areaId": "761",
+                            "indexValue": "196.828348232983"
+                        },
+                        {
+                            "areaId": "13",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "133049",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "152476",
+                            "indexValue": "196.828348232983"
+                        },
+                        {
+                            "areaId": "0",
+                            "indexValue": "32064.2252980352"
+                        }
+                    ]
+                },
+                {
+                    "productName": "ICT",
+                    "class1Name": "其中：一季度",
+                    "class2Name": null,
+                    "dataList": [
+                        {
+                            "areaId": "132686",
+                            "indexValue": "38472.6589581272"
+                        },
+                        {
+                            "areaId": "111",
+                            "indexValue": "6877.9659886443"
+                        },
+                        {
+                            "areaId": "434",
+                            "indexValue": "7479.32761867982"
+                        },
+                        {
+                            "areaId": "112",
+                            "indexValue": "3139.35034079995"
+                        },
+                        {
+                            "areaId": "447",
+                            "indexValue": "2087.59707764366"
+                        },
+                        {
+                            "areaId": "448",
+                            "indexValue": "2022.3477694328"
+                        },
+                        {
+                            "areaId": "449",
+                            "indexValue": "6118.18549264076"
+                        },
+                        {
+                            "areaId": "450",
+                            "indexValue": "426.666260003477"
+                        },
+                        {
+                            "areaId": "60",
+                            "indexValue": "367.146902133748"
+                        },
+                        {
+                            "areaId": "613",
+                            "indexValue": "1963.60598534708"
+                        },
+                        {
+                            "areaId": "639",
+                            "indexValue": "206.134593523901"
+                        },
+                        {
+                            "areaId": "640",
+                            "indexValue": "367.146902133748"
+                        },
+                        {
+                            "areaId": "647",
+                            "indexValue": "1963.60598534708"
+                        },
+                        {
+                            "areaId": "761",
+                            "indexValue": "206.134593523901"
+                        },
+                        {
+                            "areaId": "13",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "133049",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "152476",
+                            "indexValue": "206.134593523901"
+                        },
+                        {
+                            "areaId": "0",
+                            "indexValue": "33431.3501033781"
+                        }
+                    ]
+                },
+                {
+                    "productName": "ICT",
+                    "class1Name": "二季度",
+                    "class2Name": null,
+                    "dataList": [
+                        {
+                            "areaId": "132686",
+                            "indexValue": "235780.517820586"
+                        },
+                        {
+                            "areaId": "111",
+                            "indexValue": "10123.4484067951"
+                        },
+                        {
+                            "areaId": "434",
+                            "indexValue": "12316.6070447518"
+                        },
+                        {
+                            "areaId": "112",
+                            "indexValue": "11274.3552798104"
+                        },
+                        {
+                            "areaId": "447",
+                            "indexValue": "4037.12627928794"
+                        },
+                        {
+                            "areaId": "448",
+                            "indexValue": "-14170.5143125352"
+                        },
+                        {
+                            "areaId": "449",
+                            "indexValue": "27524.29588424"
+                        },
+                        {
+                            "areaId": "450",
+                            "indexValue": "-6604.53891232816"
+                        },
+                        {
+                            "areaId": "60",
+                            "indexValue": "-7207.55457621258"
+                        },
+                        {
+                            "areaId": "613",
+                            "indexValue": "-3578.25633850206"
+                        },
+                        {
+                            "areaId": "639",
+                            "indexValue": "-4502.36048792968"
+                        },
+                        {
+                            "areaId": "640",
+                            "indexValue": "-43994.8133496826"
+                        },
+                        {
+                            "areaId": "647",
+                            "indexValue": "12147.8199978876"
+                        },
+                        {
+                            "areaId": "761",
+                            "indexValue": "-11000.5433742797"
+                        },
+                        {
+                            "areaId": "13",
+                            "indexValue": "749.307805857345"
+                        },
+                        {
+                            "areaId": "133049",
+                            "indexValue": "64.3078058573453"
+                        },
+                        {
+                            "areaId": "152476",
+                            "indexValue": "-4502.36048792968"
+                        },
+                        {
+                            "areaId": "0",
+                            "indexValue": "-17323.673334912"
+                        }
+                    ]
+                },
+                {
+                    "productName": "ICT",
+                    "class1Name": "三季度",
+                    "class2Name": null,
+                    "dataList": [
+                        {
+                            "areaId": "132686",
+                            "indexValue": "326908.823361879"
+                        },
+                        {
+                            "areaId": "111",
+                            "indexValue": "-5611.09750379979"
+                        },
+                        {
+                            "areaId": "434",
+                            "indexValue": "-3485.86517089755"
+                        },
+                        {
+                            "areaId": "112",
+                            "indexValue": "10747.6948169167"
+                        },
+                        {
+                            "areaId": "447",
+                            "indexValue": "227.768246394367"
+                        },
+                        {
+                            "areaId": "448",
+                            "indexValue": "-35942.1793127425"
+                        },
+                        {
+                            "areaId": "449",
+                            "indexValue": "32047.32816636"
+                        },
+                        {
+                            "areaId": "450",
+                            "indexValue": "-14810.5583394922"
+                        },
+                        {
+                            "areaId": "60",
+                            "indexValue": "-15792.8003245839"
+                        },
+                        {
+                            "areaId": "613",
+                            "indexValue": "-14536.7976544479"
+                        },
+                        {
+                            "areaId": "639",
+                            "indexValue": "-9777.01518144452"
+                        },
+                        {
+                            "areaId": "640",
+                            "indexValue": "-89367.3178715239"
+                        },
+                        {
+                            "areaId": "647",
+                            "indexValue": "16915.3550183315"
+                        },
+                        {
+                            "areaId": "761",
+                            "indexValue": "-22773.3809541445"
+                        },
+                        {
+                            "areaId": "13",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "133049",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "152476",
+                            "indexValue": "-9777.01518144452"
+                        },
+                        {
+                            "areaId": "0",
+                            "indexValue": "-146300.840129261"
+                        }
+                    ]
+                },
+                {
+                    "productName": "ICT",
+                    "class1Name": "四季度",
+                    "class2Name": null,
+                    "dataList": [
+                        {
+                            "areaId": "132686",
+                            "indexValue": "33881.7647223421"
+                        },
+                        {
+                            "areaId": "111",
+                            "indexValue": "6056.50366895789"
+                        },
+                        {
+                            "areaId": "434",
+                            "indexValue": "6586.1193344555"
+                        },
+                        {
+                            "areaId": "112",
+                            "indexValue": "2763.92676434877"
+                        },
+                        {
+                            "areaId": "447",
+                            "indexValue": "1837.65382543021"
+                        },
+                        {
+                            "areaId": "448",
+                            "indexValue": "1780.18914184321"
+                        },
+                        {
+                            "areaId": "449",
+                            "indexValue": "5387.36943603503"
+                        },
+                        {
+                            "areaId": "450",
+                            "indexValue": "374.881782128875"
+                        },
+                        {
+                            "areaId": "60",
+                            "indexValue": "322.463432247945"
+                        },
+                        {
+                            "areaId": "613",
+                            "indexValue": "1728.45559663972"
+                        },
+                        {
+                            "areaId": "639",
+                            "indexValue": "180.660835077448"
+                        },
+                        {
+                            "areaId": "640",
+                            "indexValue": "322.463432247945"
+                        },
+                        {
+                            "areaId": "647",
+                            "indexValue": "1728.45559663972"
+                        },
+                        {
+                            "areaId": "761",
+                            "indexValue": "180.660835077448"
+                        },
+                        {
+                            "areaId": "13",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "133049",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "152476",
+                            "indexValue": "180.660835077448"
+                        },
+                        {
+                            "areaId": "0",
+                            "indexValue": "29430.4645162072"
+                        }
+                    ]
+                },
+                {
+                    "productName": "其中：智云护航",
+                    "class1Name": "全年",
+                    "class2Name": null,
+                    "dataList": [
+                        {
+                            "areaId": "132686",
+                            "indexValue": "35383.911926781"
+                        },
+                        {
+                            "areaId": "111",
+                            "indexValue": "6325.01860994617"
+                        },
+                        {
+                            "areaId": "434",
+                            "indexValue": "6878.1147729289"
+                        },
+                        {
+                            "areaId": "112",
+                            "indexValue": "2886.46538936916"
+                        },
+                        {
+                            "areaId": "447",
+                            "indexValue": "1919.12616251825"
+                        },
+                        {
+                            "areaId": "448",
+                            "indexValue": "1859.1137835998"
+                        },
+                        {
+                            "areaId": "449",
+                            "indexValue": "5626.21832728782"
+                        },
+                        {
+                            "areaId": "450",
+                            "indexValue": "391.502156706017"
+                        },
+                        {
+                            "areaId": "60",
+                            "indexValue": "336.759840574208"
+                        },
+                        {
+                            "areaId": "613",
+                            "indexValue": "1805.08663294395"
+                        },
+                        {
+                            "areaId": "639",
+                            "indexValue": "188.670428750832"
+                        },
+                        {
+                            "areaId": "640",
+                            "indexValue": "336.759840574208"
+                        },
+                        {
+                            "areaId": "647",
+                            "indexValue": "1805.08663294395"
+                        },
+                        {
+                            "areaId": "761",
+                            "indexValue": "188.670428750832"
+                        },
+                        {
+                            "areaId": "13",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "133049",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "152476",
+                            "indexValue": "188.670428750832"
+                        },
+                        {
+                            "areaId": "0",
+                            "indexValue": "30735.2634356449"
+                        }
+                    ]
+                },
+                {
+                    "productName": "其中：智云护航",
+                    "class1Name": "其中：一季度",
+                    "class2Name": null,
+                    "dataList": [
+                        {
+                            "areaId": "132686",
+                            "indexValue": "36913.8766720427"
+                        },
+                        {
+                            "areaId": "111",
+                            "indexValue": "6598.50604984164"
+                        },
+                        {
+                            "areaId": "434",
+                            "indexValue": "7175.51753433699"
+                        },
+                        {
+                            "areaId": "112",
+                            "indexValue": "3011.27324818622"
+                        },
+                        {
+                            "areaId": "447",
+                            "indexValue": "2002.1072465894"
+                        },
+                        {
+                            "areaId": "448",
+                            "indexValue": "1939.49999279633"
+                        },
+                        {
+                            "areaId": "449",
+                            "indexValue": "5869.49034615639"
+                        },
+                        {
+                            "areaId": "450",
+                            "indexValue": "408.430315997551"
+                        },
+                        {
+                            "areaId": "60",
+                            "indexValue": "351.32099720281"
+                        },
+                        {
+                            "areaId": "613",
+                            "indexValue": "1883.13676251307"
+                        },
+                        {
+                            "areaId": "639",
+                            "indexValue": "196.828348232983"
+                        },
+                        {
+                            "areaId": "640",
+                            "indexValue": "351.32099720281"
+                        },
+                        {
+                            "areaId": "647",
+                            "indexValue": "1883.13676251307"
+                        },
+                        {
+                            "areaId": "761",
+                            "indexValue": "196.828348232983"
+                        },
+                        {
+                            "areaId": "13",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "133049",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "152476",
+                            "indexValue": "196.828348232983"
+                        },
+                        {
+                            "areaId": "0",
+                            "indexValue": "32064.2252980352"
+                        }
+                    ]
+                },
+                {
+                    "productName": "其中：智云护航",
+                    "class1Name": "二季度",
+                    "class2Name": null,
+                    "dataList": [
+                        {
+                            "areaId": "132686",
+                            "indexValue": "220729.270040713"
+                        },
+                        {
+                            "areaId": "111",
+                            "indexValue": "-24591.1258325455"
+                        },
+                        {
+                            "areaId": "434",
+                            "indexValue": "-24125.6168126189"
+                        },
+                        {
+                            "areaId": "112",
+                            "indexValue": "2086.02941501255"
+                        },
+                        {
+                            "areaId": "447",
+                            "indexValue": "-5531.11898814349"
+                        },
+                        {
+                            "areaId": "448",
+                            "indexValue": "-41520.9822309818"
+                        },
+                        {
+                            "areaId": "449",
+                            "indexValue": "15164.2500568808"
+                        },
+                        {
+                            "areaId": "450",
+                            "indexValue": "-15985.3725943246"
+                        },
+                        {
+                            "areaId": "60",
+                            "indexValue": "-16803.3445946089"
+                        },
+                        {
+                            "areaId": "613",
+                            "indexValue": "-19953.4766465446"
+                        },
+                        {
+                            "areaId": "639",
+                            "indexValue": "-10343.1747935058"
+                        },
+                        {
+                            "areaId": "640",
+                            "indexValue": "-90377.8621415489"
+                        },
+                        {
+                            "areaId": "647",
+                            "indexValue": "11498.6760262348"
+                        },
+                        {
+                            "areaId": "761",
+                            "indexValue": "-23339.5405662058"
+                        },
+                        {
+                            "areaId": "13",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "133049",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "152476",
+                            "indexValue": "-10343.1747935058"
+                        },
+                        {
+                            "areaId": "0",
+                            "indexValue": "-254165.834496406"
+                        }
+                    ]
+                },
+                {
+                    "productName": "其中：智云护航",
+                    "class1Name": "三季度",
+                    "class2Name": null,
+                    "dataList": [
+                        {
+                            "areaId": "132686",
+                            "indexValue": "235781.517820586"
+                        },
+                        {
+                            "areaId": "111",
+                            "indexValue": "10124.4484067951"
+                        },
+                        {
+                            "areaId": "434",
+                            "indexValue": "12317.6070447518"
+                        },
+                        {
+                            "areaId": "112",
+                            "indexValue": "11275.3552798104"
+                        },
+                        {
+                            "areaId": "447",
+                            "indexValue": "4038.12627928794"
+                        },
+                        {
+                            "areaId": "448",
+                            "indexValue": "-14169.5143125352"
+                        },
+                        {
+                            "areaId": "449",
+                            "indexValue": "27525.29588424"
+                        },
+                        {
+                            "areaId": "450",
+                            "indexValue": "-6603.53891232816"
+                        },
+                        {
+                            "areaId": "60",
+                            "indexValue": "-7206.55457621258"
+                        },
+                        {
+                            "areaId": "613",
+                            "indexValue": "-3577.25633850206"
+                        },
+                        {
+                            "areaId": "639",
+                            "indexValue": "-4501.36048792968"
+                        },
+                        {
+                            "areaId": "640",
+                            "indexValue": "-43993.8133496826"
+                        },
+                        {
+                            "areaId": "647",
+                            "indexValue": "12148.8199978876"
+                        },
+                        {
+                            "areaId": "761",
+                            "indexValue": "-10999.5433742797"
+                        },
+                        {
+                            "areaId": "13",
+                            "indexValue": "750.075519603212"
+                        },
+                        {
+                            "areaId": "133049",
+                            "indexValue": "65.0755196032121"
+                        },
+                        {
+                            "areaId": "152476",
+                            "indexValue": "-4501.36048792968"
+                        },
+                        {
+                            "areaId": "0",
+                            "indexValue": "-17308.1379074203"
+                        }
+                    ]
+                },
+                {
+                    "productName": "其中：智云护航",
+                    "class1Name": "四季度",
+                    "class2Name": null,
+                    "dataList": [
+                        {
+                            "areaId": "132686",
+                            "indexValue": "326909.823361879"
+                        },
+                        {
+                            "areaId": "111",
+                            "indexValue": "-5610.09750379979"
+                        },
+                        {
+                            "areaId": "434",
+                            "indexValue": "-3484.86517089755"
+                        },
+                        {
+                            "areaId": "112",
+                            "indexValue": "10748.6948169167"
+                        },
+                        {
+                            "areaId": "447",
+                            "indexValue": "228.768246394367"
+                        },
+                        {
+                            "areaId": "448",
+                            "indexValue": "-35941.1793127425"
+                        },
+                        {
+                            "areaId": "449",
+                            "indexValue": "32048.32816636"
+                        },
+                        {
+                            "areaId": "450",
+                            "indexValue": "-14809.5583394922"
+                        },
+                        {
+                            "areaId": "60",
+                            "indexValue": "-15791.8003245839"
+                        },
+                        {
+                            "areaId": "613",
+                            "indexValue": "-14535.7976544479"
+                        },
+                        {
+                            "areaId": "639",
+                            "indexValue": "-9776.01518144452"
+                        },
+                        {
+                            "areaId": "640",
+                            "indexValue": "-89366.3178715239"
+                        },
+                        {
+                            "areaId": "647",
+                            "indexValue": "16916.3550183315"
+                        },
+                        {
+                            "areaId": "761",
+                            "indexValue": "-22772.3809541445"
+                        },
+                        {
+                            "areaId": "13",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "133049",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "152476",
+                            "indexValue": "-9776.01518144452"
+                        },
+                        {
+                            "areaId": "0",
+                            "indexValue": "-146289.840129261"
+                        }
+                    ]
+                },
+                {
+                    "productName": "其中：云业务收入",
+                    "class1Name": "全年",
+                    "class2Name": null,
+                    "dataList": [
+                        {
+                            "areaId": "132686",
+                            "indexValue": "33881.7647223421"
+                        },
+                        {
+                            "areaId": "111",
+                            "indexValue": "6056.50366895789"
+                        },
+                        {
+                            "areaId": "434",
+                            "indexValue": "6586.1193344555"
+                        },
+                        {
+                            "areaId": "112",
+                            "indexValue": "2763.92676434877"
+                        },
+                        {
+                            "areaId": "447",
+                            "indexValue": "1837.65382543021"
+                        },
+                        {
+                            "areaId": "448",
+                            "indexValue": "1780.18914184321"
+                        },
+                        {
+                            "areaId": "449",
+                            "indexValue": "5387.36943603503"
+                        },
+                        {
+                            "areaId": "450",
+                            "indexValue": "374.881782128875"
+                        },
+                        {
+                            "areaId": "60",
+                            "indexValue": "322.463432247945"
+                        },
+                        {
+                            "areaId": "613",
+                            "indexValue": "1728.45559663972"
+                        },
+                        {
+                            "areaId": "639",
+                            "indexValue": "180.660835077448"
+                        },
+                        {
+                            "areaId": "640",
+                            "indexValue": "322.463432247945"
+                        },
+                        {
+                            "areaId": "647",
+                            "indexValue": "1728.45559663972"
+                        },
+                        {
+                            "areaId": "761",
+                            "indexValue": "180.660835077448"
+                        },
+                        {
+                            "areaId": "13",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "133049",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "152476",
+                            "indexValue": "180.660835077448"
+                        },
+                        {
+                            "areaId": "0",
+                            "indexValue": "29430.4645162072"
+                        }
+                    ]
+                },
+                {
+                    "productName": "其中：云业务收入",
+                    "class1Name": "其中：一季度",
+                    "class2Name": null,
+                    "dataList": [
+                        {
+                            "areaId": "132686",
+                            "indexValue": "35383.911926781"
+                        },
+                        {
+                            "areaId": "111",
+                            "indexValue": "6325.01860994617"
+                        },
+                        {
+                            "areaId": "434",
+                            "indexValue": "6878.1147729289"
+                        },
+                        {
+                            "areaId": "112",
+                            "indexValue": "2886.46538936916"
+                        },
+                        {
+                            "areaId": "447",
+                            "indexValue": "1919.12616251825"
+                        },
+                        {
+                            "areaId": "448",
+                            "indexValue": "1859.1137835998"
+                        },
+                        {
+                            "areaId": "449",
+                            "indexValue": "5626.21832728782"
+                        },
+                        {
+                            "areaId": "450",
+                            "indexValue": "391.502156706017"
+                        },
+                        {
+                            "areaId": "60",
+                            "indexValue": "336.759840574208"
+                        },
+                        {
+                            "areaId": "613",
+                            "indexValue": "1805.08663294395"
+                        },
+                        {
+                            "areaId": "639",
+                            "indexValue": "188.670428750832"
+                        },
+                        {
+                            "areaId": "640",
+                            "indexValue": "336.759840574208"
+                        },
+                        {
+                            "areaId": "647",
+                            "indexValue": "1805.08663294395"
+                        },
+                        {
+                            "areaId": "761",
+                            "indexValue": "188.670428750832"
+                        },
+                        {
+                            "areaId": "13",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "133049",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "152476",
+                            "indexValue": "188.670428750832"
+                        },
+                        {
+                            "areaId": "0",
+                            "indexValue": "30735.2634356449"
+                        }
+                    ]
+                },
+                {
+                    "productName": "其中：云业务收入",
+                    "class1Name": "二季度",
+                    "class2Name": null,
+                    "dataList": [
+                        {
+                            "areaId": "132686",
+                            "indexValue": "36913.8766720427"
+                        },
+                        {
+                            "areaId": "111",
+                            "indexValue": "6598.50604984164"
+                        },
+                        {
+                            "areaId": "434",
+                            "indexValue": "7175.51753433699"
+                        },
+                        {
+                            "areaId": "112",
+                            "indexValue": "3011.27324818622"
+                        },
+                        {
+                            "areaId": "447",
+                            "indexValue": "2002.1072465894"
+                        },
+                        {
+                            "areaId": "448",
+                            "indexValue": "1939.49999279633"
+                        },
+                        {
+                            "areaId": "449",
+                            "indexValue": "5869.49034615639"
+                        },
+                        {
+                            "areaId": "450",
+                            "indexValue": "408.430315997551"
+                        },
+                        {
+                            "areaId": "60",
+                            "indexValue": "351.32099720281"
+                        },
+                        {
+                            "areaId": "613",
+                            "indexValue": "1883.13676251307"
+                        },
+                        {
+                            "areaId": "639",
+                            "indexValue": "196.828348232983"
+                        },
+                        {
+                            "areaId": "640",
+                            "indexValue": "351.32099720281"
+                        },
+                        {
+                            "areaId": "647",
+                            "indexValue": "1883.13676251307"
+                        },
+                        {
+                            "areaId": "761",
+                            "indexValue": "196.828348232983"
+                        },
+                        {
+                            "areaId": "13",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "133049",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "152476",
+                            "indexValue": "196.828348232983"
+                        },
+                        {
+                            "areaId": "0",
+                            "indexValue": "32064.2252980352"
+                        }
+                    ]
+                },
+                {
+                    "productName": "其中：云业务收入",
+                    "class1Name": "三季度",
+                    "class2Name": null,
+                    "dataList": [
+                        {
+                            "areaId": "132686",
+                            "indexValue": "144652.212279293"
+                        },
+                        {
+                            "areaId": "111",
+                            "indexValue": "25857.99431739"
+                        },
+                        {
+                            "areaId": "434",
+                            "indexValue": "28119.0792604012"
+                        },
+                        {
+                            "areaId": "112",
+                            "indexValue": "11801.0157427041"
+                        },
+                        {
+                            "areaId": "447",
+                            "indexValue": "7846.48431218152"
+                        },
+                        {
+                            "areaId": "448",
+                            "indexValue": "7601.15068767214"
+                        },
+                        {
+                            "areaId": "449",
+                            "indexValue": "23001.26360212"
+                        },
+                        {
+                            "areaId": "450",
+                            "indexValue": "1601.48051483592"
+                        },
+                        {
+                            "areaId": "60",
+                            "indexValue": "1377.69117215871"
+                        },
+                        {
+                            "areaId": "613",
+                            "indexValue": "7380.28497744382"
+                        },
+                        {
+                            "areaId": "639",
+                            "indexValue": "772.294205585164"
+                        },
+                        {
+                            "areaId": "640",
+                            "indexValue": "1377.69117215871"
+                        },
+                        {
+                            "areaId": "647",
+                            "indexValue": "7380.28497744382"
+                        },
+                        {
+                            "areaId": "761",
+                            "indexValue": "772.294205585164"
+                        },
+                        {
+                            "areaId": "13",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "133049",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "152476",
+                            "indexValue": "772.294205585164"
+                        },
+                        {
+                            "areaId": "0",
+                            "indexValue": "116736.429964651"
+                        }
+                    ]
+                },
+                {
+                    "productName": "其中：云业务收入",
+                    "class1Name": "四季度",
+                    "class2Name": null,
+                    "dataList": [
+                        {
+                            "areaId": "132686",
+                            "indexValue": "33881.7647223421"
+                        },
+                        {
+                            "areaId": "111",
+                            "indexValue": "6056.50366895789"
+                        },
+                        {
+                            "areaId": "434",
+                            "indexValue": "6586.1193344555"
+                        },
+                        {
+                            "areaId": "112",
+                            "indexValue": "2763.92676434877"
+                        },
+                        {
+                            "areaId": "447",
+                            "indexValue": "1837.65382543021"
+                        },
+                        {
+                            "areaId": "448",
+                            "indexValue": "1780.18914184321"
+                        },
+                        {
+                            "areaId": "449",
+                            "indexValue": "5387.36943603503"
+                        },
+                        {
+                            "areaId": "450",
+                            "indexValue": "374.881782128875"
+                        },
+                        {
+                            "areaId": "60",
+                            "indexValue": "322.463432247945"
+                        },
+                        {
+                            "areaId": "613",
+                            "indexValue": "1728.45559663972"
+                        },
+                        {
+                            "areaId": "639",
+                            "indexValue": "180.660835077448"
+                        },
+                        {
+                            "areaId": "640",
+                            "indexValue": "322.463432247945"
+                        },
+                        {
+                            "areaId": "647",
+                            "indexValue": "1728.45559663972"
+                        },
+                        {
+                            "areaId": "761",
+                            "indexValue": "180.660835077448"
+                        },
+                        {
+                            "areaId": "13",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "133049",
+                            "indexValue": null
+                        },
+                        {
+                            "areaId": "152476",
+                            "indexValue": "180.660835077448"
+                        },
+                        {
+                            "areaId": "0",
+                            "indexValue": "29430.4645162072"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}}
